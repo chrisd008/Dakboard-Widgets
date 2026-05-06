@@ -17,7 +17,6 @@
   li {
     display: flex;
     align-items: center;
-    gap: 10px;
     padding: 6px 0;
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
@@ -28,6 +27,7 @@
     min-width: 38px;
     text-align: center;
     padding: 4px 8px;
+    margin-right: 10px;
     border-radius: 6px;
     font-size: 13px;
     font-weight: 700;
@@ -90,7 +90,7 @@ function render(rows) {
       assignment: (r[2] || '').trim(),
       days: parseInt(r[4], 10) || 0
     }))
-    .sort((a, b) => b.days - a.days);
+    .sort((a, b) => a.days - b.days); // newest (fewest days overdue) first
 
   const root = document.getElementById('root');
   if (items.length === 0) {
