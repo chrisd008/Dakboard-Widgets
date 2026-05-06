@@ -53,6 +53,10 @@
     font-size: 12px; color: #b8b8b8; margin-top: 2px;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
+  /* Fallback dark background when viewed standalone (not in DakBoard) */
+  @media (prefers-color-scheme: light) {
+    html, body { background: #1a1a1a; }
+  }
 </style>
 </head>
 <body>
@@ -62,7 +66,6 @@
 <script>
 const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTHFoTPmvQaBeXaaNfugtrs3cJ81vbmuuAtOLoZClXbwJThArBVIPzRTUu-cayiHfMgGJigln_amwYG/pub?gid=1525113838&single=true&output=csv';
 
-// Minimal CSV parser that handles quoted fields with commas
 function parseCSV(text) {
   const rows = [];
   let row = [], field = '', inQuotes = false;
@@ -86,4 +89,48 @@ function parseCSV(text) {
 
 function escapeHTML(s) {
   return String(s).replace(/[&<>"']/g, c => ({
-    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'"
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[c]));
+}
+
+function render(rows) {
+  const headerIdx = rows.findIndex(r => r[0] && r[0].trim() === 'Class');
+  const dataRows = headerIdx >= 0 ? rows.slice(headerIdx + 1) : [];
+  const items = dataRows
+    .filter(r => r[2] && (r[6] || '').toLowerCase() === 'missing')
+    .map(r => ({
+      class: (r[0] || '').replace(/\s*S\d\s*$/, '').trim(),
+      assignment: (r[2] || '').trim(),
+      days: parseInt(r[4], 10) || 0
+    }))
+    .sort((a, b) => b.days - a.days);
+
+  const root = document.getElementById('root');
+  if (items.length === 0) {
+    root.innerHTML = '<div class="empty">All caught up! 🎉</div>';
+    return;
+  }
+  const html = '<ul>' + items.map(a => {
+    const cls = a.days >= 14 ? 'late' : (a.days >= 5 ? 'warn' : '');
+    return '<li><span class="badge ' + cls + '">' + a.days + 'd</span>' +
+           '<div class="info"><div class="assignment">' + escapeHTML(a.assignment) + '</div>' +
+           '<div class="class">' + escapeHTML(a.class) + '</div></div></li>';
+  }).join('') + '</ul>';
+  root.innerHTML = html;
+}
+
+function load() {
+  fetch(CSV_URL + '&_=' + Date.now())
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
+    .then(t => render(parseCSV(t)))
+    .catch(e => {
+      document.getElementById('root').innerHTML =
+        '<div class="err">Couldn\'t load assignments: ' + escapeHTML(e.message) + '</div>';
+    });
+}
+
+load();
+setInterval(load, 15 * 60 * 1000);
+</script>
+</body>
+</html>
