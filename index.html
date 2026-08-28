@@ -177,8 +177,13 @@ function boySection(name, bucket, maxMissing, maxUpcoming) {
   if (!missing.length && !upcoming.length) {
     inner = '<div class="clear">Nothing due this week</div>';
   } else {
-    const mShown = missing.slice(0, maxMissing);
-    const uShown = upcoming.slice(0, maxUpcoming);
+    let mShown = missing.slice(0, maxMissing);
+    let uShown = upcoming.slice(0, maxUpcoming);
+    // Never render a boy as nothing but a "+N more" line.
+    if (!mShown.length && !uShown.length) {
+      if (missing.length) mShown = missing.slice(0, 1);
+      else uShown = upcoming.slice(0, 1);
+    }
     const hidden = (missing.length - mShown.length) + (upcoming.length - uShown.length);
     inner = '<ul>' +
       mShown.map(i => row(i, 'missing')).join('') +
@@ -233,13 +238,19 @@ function render(data) {
   // hides items with no indication. So shed the least-urgent rows until the
   // content fits: furthest-out upcoming first, then least-overdue missing.
   // Whatever gets dropped is still counted in each boy's "+N more".
+  const viewport = window.innerHeight || document.documentElement.clientHeight || 0;
   const overflows = () =>
-    document.documentElement.scrollHeight > window.innerHeight + 1;
+    document.documentElement.scrollHeight > viewport + 1;
 
   let up = MAX_UPCOMING, miss = MAX_MISSING;
   draw(miss, up);
-  while (overflows() && up > 0)   { draw(miss, --up); }
-  while (overflows() && miss > 1) { draw(--miss, up); }
+  // A viewport we can't measure (0, or absurdly small) would trim everything
+  // to the floor and show "+N more" with no rows. Prefer a full list that
+  // might clip over a confidently empty one.
+  if (viewport > 80) {
+    while (overflows() && up > 0)   { draw(miss, --up); }
+    while (overflows() && miss > 1) { draw(--miss, up); }
+  }
 }
 
 function load() {
