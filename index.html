@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Missing Assignments</title>
+<title>Assignments</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html, body {
@@ -26,7 +26,7 @@
   li {
     display: flex;
     align-items: center;
-    padding: 6px 0;
+    padding: 4px 0;
   }
   li:first-child { padding-top: 2px; }
   li:last-child { border-bottom: none; }
@@ -53,25 +53,47 @@
     font-size: 12px; color: #b8b8b8; margin-top: 2px;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
-  .who { color: #e5e5e5; font-weight: 600; }
   .stale {
-    font-size: 11px; color: #d97706; margin-top: 6px;
+    font-size: 11px; color: #d97706; margin-top: 8px;
     padding-top: 6px; border-top: 1px solid #3a3a3a;
   }
+  /* per-boy grouping */
+  .boy { margin-bottom: 10px; }
+  .boy:last-of-type { margin-bottom: 0; }
+  .boyhead {
+    display: flex; align-items: baseline; gap: 8px;
+    padding-bottom: 4px; margin-bottom: 2px;
+    border-bottom: 1px solid #33373d;
+  }
+  .boyname { font-size: 15px; font-weight: 700; color: #fff; letter-spacing: 0.2px; }
+  .tally { font-size: 11px; color: #9ca3af; }
+  .tally.bad { color: #f87171; font-weight: 600; }
+  .clear { font-size: 13px; color: #8fd19e; padding: 4px 0; }
+  .more { font-size: 11px; color: #9ca3af; padding: 2px 0 0 48px; }
+  /* upcoming rows read quieter than missing ones */
+  .badge.due { background: #2f3640; color: #cbd5e1; font-weight: 600; }
+  .badge.today { background: #1d4ed8; color: #fff; }
+  li.up .assignment { font-weight: 400; color: #e5e7eb; }
 </style>
 </head>
 <body>
-  <h1 id="header">Missing Assignments</h1>
+  <h1 id="header">Assignments</h1>
   <div id="root">Loading…</div>
 
 <script>
 // Data is written by the ic-assignments-daily task (Claude Code, ~6am) and
 // pushed to this repo. Same file also lands in the brain repo for
-// family-friday-prep. Schema lives with its consumer on purpose: the last
+// family-friday-prep. Schema lives with its consumer on purpose: an earlier
 // version read a Google Sheet by column index and silently showed
 // "All caught up" for two days after a column was added upstream.
 const DATA_URL = 'assignments.json';
+const ORDER = ['Cameron', 'Zachary'];          // fixed, so the board never reshuffles
 const SHORT = { Cameron: 'Cam', Zachary: 'Zac' };
+const HORIZON_DAYS = 7;                        // upcoming beyond this is wall-noise
+// Caps keep the worst week from overflowing a fixed-height board. Missing is
+// never hidden silently -- anything trimmed is counted in a "+N more" line.
+const MAX_MISSING = 4;
+const MAX_UPCOMING = 3;
 const STALE_AFTER_DAYS = 2;
 
 function escapeHTML(s) {
@@ -80,66 +102,144 @@ function escapeHTML(s) {
   }[c]));
 }
 
-function daysSince(isoDate) {
-  const then = Date.parse(isoDate + 'T00:00:00');
-  if (isNaN(then)) return null;
-  const today = new Date();
-  const midnight = Date.parse(
-    today.getFullYear() + '-' +
-    String(today.getMonth() + 1).padStart(2, '0') + '-' +
-    String(today.getDate()).padStart(2, '0') + 'T00:00:00');
-  return Math.round((midnight - then) / 86400000);
+function todayMidnight() {
+  const t = new Date();
+  return new Date(t.getFullYear(), t.getMonth(), t.getDate()).getTime();
 }
 
-function collect(data) {
-  const students = (data && data.students) || {};
-  const out = [];
-  for (const name of Object.keys(students)) {
-    for (const item of (students[name].missing || [])) {
-      out.push({
-        who: SHORT[name] || name,
-        assignment: String(item.assignment || '').trim(),
-        // drop the semester suffix: "Physical Science S1" -> "Physical Science"
-        class: String(item.class || '').replace(/\s*S\d\s*$/, '').trim(),
-        days: Number(item.daysOverdue) || 0
-      });
-    }
+function dayDelta(isoDate) {
+  const then = Date.parse(isoDate + 'T00:00:00');
+  if (isNaN(then)) return null;
+  return Math.round((then - todayMidnight()) / 86400000);
+}
+
+function daysSince(isoDate) {
+  const d = dayDelta(isoDate);
+  return d === null ? null : -d;
+}
+
+// Short, glanceable due label: Today / Tmrw / Mon / Fri
+const WEEKDAY = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+function dueLabel(isoDate, fallbackDays) {
+  const d = dayDelta(isoDate);
+  if (d === null) return (fallbackDays != null ? '+' + fallbackDays + 'd' : '?');
+  if (d <= 0) return 'Today';
+  if (d === 1) return 'Tmrw';
+  const dt = new Date(Date.parse(isoDate + 'T00:00:00'));
+  if (d <= 6) return WEEKDAY[dt.getDay()];
+  return (dt.getMonth() + 1) + '/' + dt.getDate();
+}
+
+function cleanClass(c) {
+  // "Physical Science S1" -> "Physical Science"; "EXPLO 6 -Music Prod & Tech" -> as-is
+  return String(c || '').replace(/\s*S\d\s*$/, '').trim();
+}
+
+function row(item, kind) {
+  if (kind === 'missing') {
+    const days = Number(item.daysOverdue) || 0;
+    const cls = days >= 14 ? 'late' : (days >= 5 ? 'warn' : '');
+    return '<li><span class="badge ' + cls + '">' + days + 'd</span>' +
+           '<div class="info">' +
+             '<div class="assignment">' + escapeHTML(String(item.assignment || '').trim()) + '</div>' +
+             '<div class="class">' + escapeHTML(cleanClass(item.class)) + '</div>' +
+           '</div></li>';
   }
-  // most overdue last, matching the old widget's ordering
-  return out.sort((a, b) => a.days - b.days);
+  const label = dueLabel(item.dueDate, item.daysUntilDue);
+  const cls = label === 'Today' ? 'due today' : 'due';
+  return '<li class="up"><span class="badge ' + cls + '">' + escapeHTML(label) + '</span>' +
+         '<div class="info">' +
+           '<div class="assignment">' + escapeHTML(String(item.assignment || '').trim()) + '</div>' +
+           '<div class="class">' + escapeHTML(cleanClass(item.class)) + '</div>' +
+         '</div></li>';
+}
+
+function boySection(name, bucket, maxMissing, maxUpcoming) {
+  const missing = (bucket.missing || []).slice()
+    .sort((a, b) => (Number(b.daysOverdue) || 0) - (Number(a.daysOverdue) || 0));
+
+  const upcoming = (bucket.upcoming || [])
+    .filter(i => {
+      const d = dayDelta(i.dueDate);
+      const n = d === null ? Number(i.daysUntilDue) : d;
+      return !isNaN(n) && n >= 0 && n <= HORIZON_DAYS;
+    })
+    .sort((a, b) => {
+      const da = dayDelta(a.dueDate), db = dayDelta(b.dueDate);
+      return (da === null ? 99 : da) - (db === null ? 99 : db);
+    });
+
+  const tally = missing.length
+    ? '<span class="tally bad">' + missing.length + ' missing</span>'
+    : '<span class="tally">all turned in</span>';
+
+  let inner;
+  if (!missing.length && !upcoming.length) {
+    inner = '<div class="clear">Nothing due this week</div>';
+  } else {
+    const mShown = missing.slice(0, maxMissing);
+    const uShown = upcoming.slice(0, maxUpcoming);
+    const hidden = (missing.length - mShown.length) + (upcoming.length - uShown.length);
+    inner = '<ul>' +
+      mShown.map(i => row(i, 'missing')).join('') +
+      uShown.map(i => row(i, 'upcoming')).join('') +
+      '</ul>';
+    if (hidden > 0) inner += '<div class="more">+' + hidden + ' more</div>';
+  }
+
+  return '<div class="boy">' +
+           '<div class="boyhead"><span class="boyname">' + escapeHTML(SHORT[name] || name) +
+             '</span>' + tally + '</div>' +
+           inner +
+         '</div>';
 }
 
 function render(data) {
-  const items = collect(data);
+  const students = (data && data.students) || {};
+  // fixed order first, then any student the task starts tracking later
+  const names = ORDER.filter(n => n in students)
+    .concat(Object.keys(students).filter(n => !ORDER.includes(n)));
+
+  const totalMissing = names.reduce(
+    (n, k) => n + ((students[k].missing || []).length), 0);
+
   document.getElementById('header').innerHTML =
-    'Missing Assignments <span class="count">(' + items.length + ')</span>';
-
-  const root = document.getElementById('root');
-  let html;
-
-  if (items.length === 0) {
-    html = '<div class="empty">All caught up! &#127881;</div>';
-  } else {
-    html = '<ul>' + items.map(a => {
-      const cls = a.days >= 14 ? 'late' : (a.days >= 5 ? 'warn' : '');
-      return '<li><span class="badge ' + cls + '">' + a.days + 'd</span>' +
-             '<div class="info">' +
-               '<div class="assignment">' + escapeHTML(a.assignment) + '</div>' +
-               '<div class="class"><span class="who">' + escapeHTML(a.who) +
-                 '</span> &middot; ' + escapeHTML(a.class) + '</div>' +
-             '</div></li>';
-    }).join('') + '</ul>';
-  }
+    'Assignments' + (totalMissing
+      ? ' <span class="count">(' + totalMissing + ' missing)</span>'
+      : '');
 
   // Never let a stale feed read as good news.
   const age = data && data.generated ? daysSince(data.generated) : null;
+  let footer = '';
   if (age === null) {
-    html += '<div class="stale">No date on feed &mdash; may be stale</div>';
+    footer = '<div class="stale">No date on feed &mdash; may be stale</div>';
   } else if (age > STALE_AFTER_DAYS) {
-    html += '<div class="stale">Last updated ' + age + ' days ago</div>';
+    footer = '<div class="stale">Last updated ' + age + ' days ago</div>';
   }
 
-  root.innerHTML = html;
+  const root = document.getElementById('root');
+  if (!names.length) {
+    root.innerHTML = '<div class="err">No students in feed</div>' + footer;
+    return;
+  }
+
+  const draw = (maxMissing, maxUpcoming) => {
+    root.innerHTML =
+      names.map(n => boySection(n, students[n] || {}, maxMissing, maxUpcoming)).join('')
+      + footer;
+  };
+
+  // The board's widget height is fixed but unknown to us, and a clipped list
+  // hides items with no indication. So shed the least-urgent rows until the
+  // content fits: furthest-out upcoming first, then least-overdue missing.
+  // Whatever gets dropped is still counted in each boy's "+N more".
+  const overflows = () =>
+    document.documentElement.scrollHeight > window.innerHeight + 1;
+
+  let up = MAX_UPCOMING, miss = MAX_MISSING;
+  draw(miss, up);
+  while (overflows() && up > 0)   { draw(miss, --up); }
+  while (overflows() && miss > 1) { draw(--miss, up); }
 }
 
 function load() {
