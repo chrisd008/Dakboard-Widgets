@@ -53,6 +53,11 @@
     font-size: 12px; color: #b8b8b8; margin-top: 2px;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
+  .who { color: #e5e5e5; font-weight: 600; }
+  .stale {
+    font-size: 11px; color: #d97706; margin-top: 6px;
+    padding-top: 6px; border-top: 1px solid #3a3a3a;
+  }
 </style>
 </head>
 <body>
@@ -60,28 +65,14 @@
   <div id="root">Loading…</div>
 
 <script>
-const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTHFoTPmvQaBeXaaNfugtrs3cJ81vbmuuAtOLoZClXbwJThArBVIPzRTUu-cayiHfMgGJigln_amwYG/pub?gid=1525113838&single=true&output=csv';
-
-function parseCSV(text) {
-  const rows = [];
-  let row = [], field = '', inQuotes = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (inQuotes) {
-      if (c === '"' && text[i+1] === '"') { field += '"'; i++; }
-      else if (c === '"') { inQuotes = false; }
-      else { field += c; }
-    } else {
-      if (c === '"') { inQuotes = true; }
-      else if (c === ',') { row.push(field); field = ''; }
-      else if (c === '\n') { row.push(field); rows.push(row); row = []; field = ''; }
-      else if (c === '\r') { /* skip */ }
-      else { field += c; }
-    }
-  }
-  if (field.length || row.length) { row.push(field); rows.push(row); }
-  return rows;
-}
+// Data is written by the ic-assignments-daily task (Claude Code, ~6am) and
+// pushed to this repo. Same file also lands in the brain repo for
+// family-friday-prep. Schema lives with its consumer on purpose: the last
+// version read a Google Sheet by column index and silently showed
+// "All caught up" for two days after a column was added upstream.
+const DATA_URL = 'assignments.json';
+const SHORT = { Cameron: 'Cam', Zachary: 'Zac' };
+const STALE_AFTER_DAYS = 2;
 
 function escapeHTML(s) {
   return String(s).replace(/[&<>"']/g, c => ({
@@ -89,39 +80,72 @@ function escapeHTML(s) {
   }[c]));
 }
 
-function render(rows) {
-  const headerIdx = rows.findIndex(r => r[0] && r[0].trim() === 'Class');
-  const dataRows = headerIdx >= 0 ? rows.slice(headerIdx + 1) : [];
-  const items = dataRows
-    .filter(r => r[2] && (r[6] || '').toLowerCase() === 'missing')
-    .map(r => ({
-      class: (r[0] || '').replace(/\s*S\d\s*$/, '').trim(),
-      assignment: (r[2] || '').trim(),
-      days: parseInt(r[4], 10) || 0
-    }))
-    .sort((a, b) => a.days - b.days);
+function daysSince(isoDate) {
+  const then = Date.parse(isoDate + 'T00:00:00');
+  if (isNaN(then)) return null;
+  const today = new Date();
+  const midnight = Date.parse(
+    today.getFullYear() + '-' +
+    String(today.getMonth() + 1).padStart(2, '0') + '-' +
+    String(today.getDate()).padStart(2, '0') + 'T00:00:00');
+  return Math.round((midnight - then) / 86400000);
+}
 
+function collect(data) {
+  const students = (data && data.students) || {};
+  const out = [];
+  for (const name of Object.keys(students)) {
+    for (const item of (students[name].missing || [])) {
+      out.push({
+        who: SHORT[name] || name,
+        assignment: String(item.assignment || '').trim(),
+        // drop the semester suffix: "Physical Science S1" -> "Physical Science"
+        class: String(item.class || '').replace(/\s*S\d\s*$/, '').trim(),
+        days: Number(item.daysOverdue) || 0
+      });
+    }
+  }
+  // most overdue last, matching the old widget's ordering
+  return out.sort((a, b) => a.days - b.days);
+}
+
+function render(data) {
+  const items = collect(data);
   document.getElementById('header').innerHTML =
     'Missing Assignments <span class="count">(' + items.length + ')</span>';
 
   const root = document.getElementById('root');
+  let html;
+
   if (items.length === 0) {
-    root.innerHTML = '<div class="empty">All caught up! 🎉</div>';
-    return;
+    html = '<div class="empty">All caught up! &#127881;</div>';
+  } else {
+    html = '<ul>' + items.map(a => {
+      const cls = a.days >= 14 ? 'late' : (a.days >= 5 ? 'warn' : '');
+      return '<li><span class="badge ' + cls + '">' + a.days + 'd</span>' +
+             '<div class="info">' +
+               '<div class="assignment">' + escapeHTML(a.assignment) + '</div>' +
+               '<div class="class"><span class="who">' + escapeHTML(a.who) +
+                 '</span> &middot; ' + escapeHTML(a.class) + '</div>' +
+             '</div></li>';
+    }).join('') + '</ul>';
   }
-  const html = '<ul>' + items.map(a => {
-    const cls = a.days >= 14 ? 'late' : (a.days >= 5 ? 'warn' : '');
-    return '<li><span class="badge ' + cls + '">' + a.days + 'd</span>' +
-           '<div class="info"><div class="assignment">' + escapeHTML(a.assignment) + '</div>' +
-           '<div class="class">' + escapeHTML(a.class) + '</div></div></li>';
-  }).join('') + '</ul>';
+
+  // Never let a stale feed read as good news.
+  const age = data && data.generated ? daysSince(data.generated) : null;
+  if (age === null) {
+    html += '<div class="stale">No date on feed &mdash; may be stale</div>';
+  } else if (age > STALE_AFTER_DAYS) {
+    html += '<div class="stale">Last updated ' + age + ' days ago</div>';
+  }
+
   root.innerHTML = html;
 }
 
 function load() {
-  fetch(CSV_URL + '&_=' + Date.now())
-    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
-    .then(t => render(parseCSV(t)))
+  fetch(DATA_URL + '?_=' + Date.now(), { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(render)
     .catch(e => {
       document.getElementById('root').innerHTML =
         '<div class="err">Couldn\'t load assignments: ' + escapeHTML(e.message) + '</div>';

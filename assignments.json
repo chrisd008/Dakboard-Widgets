@@ -1,0 +1,31 @@
+{
+  "generated": "2026-08-28",
+  "students": {
+    "Cameron": {
+      "missing": [
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Metric System Challenge", "dueDate": "2026-08-28", "daysOverdue": 0, "points": 3}
+      ],
+      "upcoming": [
+        {"class": "Art 8", "teacher": "Bundy, E", "assignment": "Syllabus and Behavior Contract", "dueDate": "2026-08-28", "daysUntilDue": 0},
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography", "dueDate": "2026-08-28", "daysUntilDue": 0},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Study Island - Measurement", "dueDate": "2026-09-04", "daysUntilDue": 7},
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "US History", "dueDate": "2026-09-07", "daysUntilDue": 10}
+      ],
+      "graded": [
+        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Policy Sheet", "dateGraded": "2026-08-28", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Metric System Challenge", "dateGraded": "2026-08-28", "score": 0, "possible": 3, "percent": "0%"}
+      ]
+    },
+    "Zachary": {
+      "missing": [],
+      "upcoming": [
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "First Day in GarageBand Activities", "dueDate": "2026-08-31", "daysUntilDue": 3},
+        {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "5 Themes Coloring sheet", "dueDate": "2026-08-31", "daysUntilDue": 3}
+      ],
+      "graded": [
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "1 Qtr Classroom Contract", "dateGraded": "2026-08-25", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Lab Safety", "dateGraded": "2026-08-28", "score": 10, "possible": 10, "percent": "100%"}
+      ]
+    }
+  }
+}
