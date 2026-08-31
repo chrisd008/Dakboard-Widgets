@@ -67,6 +67,13 @@
           "assignment": "First Day in GarageBand Activities",
           "dueDate": "2026-08-31",
           "daysUntilDue": 0
+        },
+        {
+          "class": "PE/Health 6 S1",
+          "teacher": "",
+          "assignment": "Week 1&2",
+          "dueDate": "2026-09-04",
+          "daysUntilDue": 4
         }
       ],
       "graded": [
@@ -74,10 +81,10 @@
           "class": "Geography 6 S1",
           "teacher": "Turner, S",
           "assignment": "5 Themes Coloring",
-          "dateGraded": "2026-08-30",
-          "score": 0,
+          "dateGraded": "2026-08-31",
+          "score": 5,
           "possible": 5,
-          "percent": "0%"
+          "percent": "100%"
         },
         {
           "class": "Earth Science 6 S1",
