@@ -53,20 +53,6 @@
       "missing": [],
       "upcoming": [
         {
-          "class": "Geography 6 S1",
-          "teacher": "Turner, S",
-          "assignment": "5 Themes WS",
-          "dueDate": "2026-09-01",
-          "daysUntilDue": 0
-        },
-        {
-          "class": "Math 6 S1",
-          "teacher": "Purcell",
-          "assignment": "Coordinate Graphing: Up, Up and Away!",
-          "dueDate": "2026-09-02",
-          "daysUntilDue": 1
-        },
-        {
           "class": "PE/Health 6 S1",
           "teacher": "Darks, R",
           "assignment": "Week 1&2",
@@ -75,6 +61,24 @@
         }
       ],
       "graded": [
+        {
+          "class": "Math 6 S1",
+          "teacher": "Purcell, C",
+          "assignment": "Coordinate Graphing: Up, Up and Away!",
+          "dateGraded": "2026-09-01",
+          "score": 3,
+          "possible": 3,
+          "percent": "100%"
+        },
+        {
+          "class": "Geography 6 S1",
+          "teacher": "Turner, S",
+          "assignment": "5 Themes WS",
+          "dateGraded": "2026-09-01",
+          "score": 10,
+          "possible": 10,
+          "percent": "100%"
+        },
         {
           "class": "Geography 6 S1",
           "teacher": "Turner, S",
