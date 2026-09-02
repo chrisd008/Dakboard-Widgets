@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01",
+  "generated": "2026-09-02",
   "students": {
     "Cameron": {
       "missing": [],
@@ -9,14 +9,14 @@
           "teacher": "Hinkebein, G",
           "assignment": "Study Island - Measurement",
           "dueDate": "2026-09-04",
-          "daysUntilDue": 3
+          "daysUntilDue": 2
         },
         {
           "class": "US History 8 S1",
           "teacher": "Olwig, M",
           "assignment": "US History",
           "dueDate": "2026-09-07",
-          "daysUntilDue": 6
+          "daysUntilDue": 5
         }
       ],
       "graded": [
@@ -57,10 +57,19 @@
           "teacher": "Darks, R",
           "assignment": "Week 1&2",
           "dueDate": "2026-09-04",
-          "daysUntilDue": 3
+          "daysUntilDue": 2
         }
       ],
       "graded": [
+        {
+          "class": "PE/Health 6 S1",
+          "teacher": "Darks, R",
+          "assignment": "PE Policy Form",
+          "dateGraded": "2026-09-02",
+          "score": 5,
+          "possible": 5,
+          "percent": "100%"
+        },
         {
           "class": "Math 6 S1",
           "teacher": "Purcell, C",
@@ -95,15 +104,6 @@
           "dateGraded": "2026-08-28",
           "score": 10,
           "possible": 10,
-          "percent": "100%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "1 Qtr Classroom Contract",
-          "dateGraded": "2026-08-25",
-          "score": 3,
-          "possible": 3,
           "percent": "100%"
         }
       ]
