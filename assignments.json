@@ -20,6 +20,8 @@
         {"class": "PE/Health 6 S1", "teacher": "Darks, R", "assignment": "Week 1&2", "dueDate": "2026-09-04", "daysUntilDue": 1}
       ],
       "graded": [
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "History of Music Production Summary", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "History of Music Production Quiz", "dateGraded": "2026-09-03", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Edpuzzle: From the Phonograph to Spotify", "dateGraded": "2026-09-03", "score": 14, "possible": 14, "percent": "100%"},
         {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "First Day in GarageBand Activities", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Coordinate Graphing: Up, Up and Away! (TURNED IN)", "dateGraded": "2026-09-02", "score": 3, "possible": 3, "percent": "100%"},
