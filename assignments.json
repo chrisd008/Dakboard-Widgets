@@ -3,40 +3,41 @@
   "students": {
     "Cameron": {
       "missing": [
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Study Island - Measurement", "dueDate": "2026-09-04", "daysOverdue": 3, "points": 3}
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Study Island - Measurement", "dueDate": "2026-09-04", "daysOverdue": 3, "points": 3}
       ],
       "upcoming": [
         {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "US History", "dueDate": "2026-09-07", "daysUntilDue": 0}
       ],
       "graded": [
-        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "8/28 Charles CR (Late, Turned In)", "dateGraded": "2026-09-06", "score": 4, "possible": 5, "percent": "80%"},
-        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "9/1-9/2 Medicine Bag Selection Test (Late, Turned In)", "dateGraded": "2026-09-06", "score": 10, "possible": 14, "percent": "71.42%"},
-        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "8/24-8/25 Inanimate Object Introduction Paragraph (Late)", "dateGraded": "2026-09-04", "score": 14, "possible": 15, "percent": "93.33%"},
-        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 1 Participation", "dateGraded": "2026-09-04", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 1 Participation", "dateGraded": "2026-09-04", "score": 10, "possible": 10, "percent": "100%"},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Measuring Mass & Volume Quiz", "dateGraded": "2026-09-04", "score": 6.5, "possible": 15, "percent": "43.33%"},
-        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/1 - 9/6", "dateGraded": "2026-09-04", "score": 4, "possible": 4, "percent": "100%"},
-        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 1", "dateGraded": "2026-09-04", "score": 6, "possible": 6, "percent": "100%"},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Measuring Mass & Volume Labs", "dateGraded": "2026-09-03", "score": 5, "possible": 10, "percent": "50%"},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Metric System Challenge (Late, Turned In)", "dateGraded": "2026-09-01", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "Art 8", "teacher": "Bundy, E", "assignment": "Syllabus and Behavior Contract (Turned In)", "dateGraded": "2026-08-31", "score": 5, "possible": 5, "percent": "100%"}
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "8/28 Charles CR (LATE, TURNED IN)", "dateGraded": "2026-09-06", "score": 4, "possible": 5, "percent": "80%"},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "9/1-9/2 Medicine Bag Selection Test (LATE, TURNED IN)", "dateGraded": "2026-09-06", "score": 10, "possible": 14, "percent": "71.42%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Study Island - Measurement (MISSING)", "dateGraded": "2026-09-05", "score": 0, "possible": 3, "percent": "0%"},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "8/24-8/25 Inanimate Object Introduction Paragraph (LATE)", "dateGraded": "2026-09-04", "score": 14, "possible": 15, "percent": "93.33%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 1 Participation", "dateGraded": "2026-09-04", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 1 Participation", "dateGraded": "2026-09-04", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Measuring Mass & Volume Quiz", "dateGraded": "2026-09-04", "score": 6.5, "possible": 15, "percent": "43.33%"},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "DuoLingo: Week of 9/1 - 9/6", "dateGraded": "2026-09-04", "score": 4, "possible": 4, "percent": "100%"},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "Puedo Ir Al Bano Nugget 1", "dateGraded": "2026-09-04", "score": 6, "possible": 6, "percent": "100%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Measuring Mass & Volume Labs", "dateGraded": "2026-09-03", "score": 5, "possible": 10, "percent": "50%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Metric System Challenge (LATE, TURNED IN)", "dateGraded": "2026-09-01", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "Art 8", "teacher": "", "assignment": "Syllabus and Behavior Contract (TURNED IN)", "dateGraded": "2026-08-31", "score": 5, "possible": 5, "percent": "100%"}
       ]
     },
     "Zachary": {
       "missing": [],
       "upcoming": [],
       "graded": [
-        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Warm Up Quiz #1 (Turned In)", "dateGraded": "2026-09-05", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "MR HELP", "dateGraded": "2026-09-04", "score": 11, "possible": 11, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Warm Up Quiz #1 (TURNED IN)", "dateGraded": "2026-09-05", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "MR HELP", "dateGraded": "2026-09-04", "score": 11, "possible": 11, "percent": "100%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Bellringer Check IV & DV", "dateGraded": "2026-09-04", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "History of Music Production Summary", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "History of Music Production Quiz", "dateGraded": "2026-09-03", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Edpuzzle: From the Phonograph to Spotify", "dateGraded": "2026-09-03", "score": 14, "possible": 14, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "First Day in GarageBand Activities", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
-        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Coordinate Graphing: Up, Up and Away! (Turned In)", "dateGraded": "2026-09-02", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "PE/Health 6 S1", "teacher": "Darks, R", "assignment": "PE Policy Form", "dateGraded": "2026-09-02", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "5 Themes WS", "dateGraded": "2026-09-01", "score": 10, "possible": 10, "percent": "100%"},
-        {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "5 Themes Coloring", "dateGraded": "2026-08-31", "score": 5, "possible": 5, "percent": "100%"}
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "", "assignment": "History of Music Production Summary", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "", "assignment": "History of Music Production Quiz", "dateGraded": "2026-09-03", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "", "assignment": "Edpuzzle: From the Phonograph to Spotify", "dateGraded": "2026-09-03", "score": 14, "possible": 14, "percent": "100%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "", "assignment": "First Day in GarageBand Activities", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Coordinate Graphing: Up, Up and Away! (TURNED IN)", "dateGraded": "2026-09-02", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "PE/Health 6 S1", "teacher": "", "assignment": "PE Policy Form", "dateGraded": "2026-09-02", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "5 Themes WS", "dateGraded": "2026-09-01", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "5 Themes Coloring", "dateGraded": "2026-08-31", "score": 5, "possible": 5, "percent": "100%"}
       ]
     }
   }
