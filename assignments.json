@@ -26,6 +26,7 @@
       "missing": [],
       "upcoming": [],
       "graded": [
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Layering Loops", "dateGraded": "2026-09-09", "score": 5, "possible": 10, "percent": "50%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #2 Ed Puzzle (What is Science)", "dateGraded": "2026-09-09", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Loop Scavenger Hunt", "dateGraded": "2026-09-08", "score": 8.5, "possible": 10, "percent": "85%"},
         {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "5 Themes Mosaic", "dateGraded": "2026-09-08", "score": 13, "possible": 20, "percent": "65%"},
