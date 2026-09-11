@@ -1,17 +1,22 @@
 {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "students": {
     "Cameron": {
       "missing": [
-        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography", "dueDate": "2026-08-28", "daysOverdue": 13, "points": 10}
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography", "dueDate": "2026-08-28", "daysOverdue": 14, "points": 10},
+        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 2", "dueDate": "2026-09-09", "daysOverdue": 2, "points": 6},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab", "dueDate": "2026-09-10", "daysOverdue": 1, "points": 10}
       ],
       "upcoming": [
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab", "dueDate": "2026-09-10", "daysUntilDue": 0},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Interpreting Graphs Color by Number", "dueDate": "2026-09-14", "daysUntilDue": 4}
+        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 2 Participation", "dueDate": "2026-09-11", "daysUntilDue": 0},
+        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 2 Sportsmanship", "dueDate": "2026-09-11", "daysUntilDue": 0},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Interpreting Graphs Color by Number", "dueDate": "2026-09-14", "daysUntilDue": 3}
       ],
       "graded": [
+        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 2 (MISSING)", "dateGraded": "2026-09-11", "score": 0, "possible": 6, "percent": "0%"},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab (MISSING)", "dateGraded": "2026-09-10", "score": 0, "possible": 10, "percent": "0%"},
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Study Island - Measurement (LATE, TURNED IN)", "dateGraded": "2026-09-08", "score": 4, "possible": 3, "percent": "133.33%"},
-        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography (INCOMPLETE, MISSING)", "dateGraded": "2026-09-07", "score": 0, "possible": 10, "percent": "0%"},
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography (MISSING)", "dateGraded": "2026-09-07", "score": 0, "possible": 10, "percent": "0%"},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "8/28 Charles CR (LATE, TURNED IN)", "dateGraded": "2026-09-06", "score": 4, "possible": 5, "percent": "80%"},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/1-9/2 Medicine Bag Selection Test (LATE, TURNED IN)", "dateGraded": "2026-09-06", "score": 10, "possible": 14, "percent": "71.42%"},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "8/24-8/25 Inanimate Object Introduction Paragraph (LATE)", "dateGraded": "2026-09-04", "score": 14, "possible": 15, "percent": "93.33%"},
@@ -19,25 +24,31 @@
         {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 1 Participation", "dateGraded": "2026-09-04", "score": 10, "possible": 10, "percent": "100%"},
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Measuring Mass & Volume Quiz", "dateGraded": "2026-09-04", "score": 6.5, "possible": 15, "percent": "43.33%"},
         {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 1", "dateGraded": "2026-09-04", "score": 6, "possible": 6, "percent": "100%"},
-        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/1 - 9/6", "dateGraded": "2026-09-04", "score": 4, "possible": 4, "percent": "100%"},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Measuring Mass & Volume Labs", "dateGraded": "2026-09-03", "score": 5, "possible": 10, "percent": "50%"}
+        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/1 - 9/6", "dateGraded": "2026-09-04", "score": 4, "possible": 4, "percent": "100%"}
       ]
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [],
+      "upcoming": [
+        {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "ATA (Themes, Long/Lat, Continents)", "dueDate": "2026-09-11", "daysUntilDue": 0},
+        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "i-Ready Wks of 8/31 to 9/7", "dueDate": "2026-09-13", "daysUntilDue": 2}
+      ],
       "graded": [
+        {"class": "EXPLO 6-Computer Science", "teacher": "Silzle, C", "assignment": "Tower of Treasure", "dateGraded": "2026-09-11", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "EXPLO 6-Computer Science", "teacher": "Silzle, C", "assignment": "Mindful Mountain", "dateGraded": "2026-09-11", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "EXPLO 6-Computer Science", "teacher": "Silzle, C", "assignment": "Kind Kingdom", "dateGraded": "2026-09-11", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "EXPLO 6-Computer Science", "teacher": "Silzle, C", "assignment": "Reality River", "dateGraded": "2026-09-11", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "EXPLO 6-Computer Science", "teacher": "Silzle, C", "assignment": "ISTE 2.b Digital Citizenship Pre-Assessment", "dateGraded": "2026-09-11", "score": 9.091, "possible": 10, "percent": "90.91%"},
+        {"class": "EXPLO 6-Computer Science", "teacher": "Silzle, C", "assignment": "Introduction Slides", "dateGraded": "2026-09-11", "score": 45, "possible": 50, "percent": "90%"},
+        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "i-Ready Wks of 8/31 to 9/7", "dateGraded": "2026-09-10", "score": 1, "possible": 2, "percent": "50%"},
+        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "1.1.2 Area & Perimeter Worksheet", "dateGraded": "2026-09-09", "score": 2, "possible": 2, "percent": "100%"},
         {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Layering Loops", "dateGraded": "2026-09-09", "score": 5, "possible": 10, "percent": "50%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #2 Ed Puzzle (What is Science)", "dateGraded": "2026-09-09", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Loop Scavenger Hunt", "dateGraded": "2026-09-08", "score": 8.5, "possible": 10, "percent": "85%"},
         {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "5 Themes Mosaic", "dateGraded": "2026-09-08", "score": 13, "possible": 20, "percent": "65%"},
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Warm Up Quiz #1 (TURNED IN)", "dateGraded": "2026-09-05", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "MR HELP", "dateGraded": "2026-09-04", "score": 11, "possible": 11, "percent": "100%"},
-        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Bellringer Check IV & DV", "dateGraded": "2026-09-04", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "History of Music Production Summary", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "History of Music Production Quiz", "dateGraded": "2026-09-03", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Edpuzzle: From the Phonograph to Spotify", "dateGraded": "2026-09-03", "score": 14, "possible": 14, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "First Day in GarageBand Activities", "dateGraded": "2026-09-03", "score": 10, "possible": 10, "percent": "100%"}
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Bellringer Check IV & DV", "dateGraded": "2026-09-04", "score": 3, "possible": 3, "percent": "100%"}
       ]
     }
   }
