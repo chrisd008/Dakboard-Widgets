@@ -13,6 +13,7 @@
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Interpreting Graphs Color by Number", "dueDate": "2026-09-14", "daysUntilDue": 3}
       ],
       "graded": [
+        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "1st Quarter Pacer", "dateGraded": "2026-09-11", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 2 (MISSING)", "dateGraded": "2026-09-11", "score": 0, "possible": 6, "percent": "0%"},
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab (MISSING)", "dateGraded": "2026-09-10", "score": 0, "possible": 10, "percent": "0%"},
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Study Island - Measurement (LATE, TURNED IN)", "dateGraded": "2026-09-08", "score": 4, "possible": 3, "percent": "133.33%"},
