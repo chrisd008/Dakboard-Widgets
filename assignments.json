@@ -7,32 +7,32 @@
           "class": "US History 8 S1",
           "teacher": "Olwig, M",
           "assignment": "5 themes of Geography",
-          "dueDate": "2026-08-28",
-          "daysOverdue": 18,
+          "dueDate": "2026-08-29",
+          "daysOverdue": 17,
           "points": 10
         },
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
           "assignment": "Ch. 0 Homework #5 Pg. 19-20",
-          "dueDate": "2026-09-02",
-          "daysOverdue": 13,
+          "dueDate": "2026-09-03",
+          "daysOverdue": 12,
           "points": 3
         },
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
           "assignment": "Ch. 1 Homework #2 Pg. 9-11",
-          "dueDate": "2026-09-08",
-          "daysOverdue": 7,
+          "dueDate": "2026-09-09",
+          "daysOverdue": 6,
           "points": 3
         },
         {
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
           "assignment": "Sink or Float Lab",
-          "dueDate": "2026-09-10",
-          "daysOverdue": 5,
+          "dueDate": "2026-09-11",
+          "daysOverdue": 4,
           "points": 10
         }
       ],
@@ -41,8 +41,8 @@
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
           "assignment": "States of Matter Color by Number",
-          "dueDate": "2026-09-21",
-          "daysUntilDue": 6
+          "dueDate": "2026-09-22",
+          "daysUntilDue": 7
         }
       ],
       "graded": [
@@ -94,6 +94,15 @@
         {
           "class": "Honors English Lang Arts 8 S1",
           "teacher": "Beeson, A",
+          "assignment": "9/4 \"Medicine Bag\" CR (TURNED IN)",
+          "dateGraded": "2026-09-14",
+          "score": null,
+          "possible": null,
+          "percent": ""
+        },
+        {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
           "assignment": "9/8-9/10 Selection Test: Banana Tree",
           "dateGraded": "2026-09-14",
           "score": 7,
@@ -102,7 +111,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "Williams, K",
+          "teacher": "",
           "assignment": "Week 2 Participation",
           "dateGraded": "2026-09-11",
           "score": 8,
@@ -111,7 +120,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "Williams, K",
+          "teacher": "",
           "assignment": "Week 2 Sportsmanship",
           "dateGraded": "2026-09-11",
           "score": 4,
@@ -120,7 +129,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "Williams, K",
+          "teacher": "",
           "assignment": "1st Quarter Pacer",
           "dateGraded": "2026-09-11",
           "score": 5,
@@ -143,6 +152,15 @@
       "upcoming": [],
       "graded": [
         {
+          "class": "EXPLO 6 -Music Prod & Tech",
+          "teacher": "Bunch, J",
+          "assignment": "Edpuzzle: Rhythm, Melody, Harmony",
+          "dateGraded": "2026-09-15",
+          "score": 10,
+          "possible": 10,
+          "percent": "100%"
+        },
+        {
           "class": "PE/Health 6 S1",
           "teacher": "Darks, R",
           "assignment": "Week 1&2",
@@ -153,7 +171,7 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "Purcell, C",
+          "teacher": "",
           "assignment": "Warm Up Quiz #2",
           "dateGraded": "2026-09-14",
           "score": 6,
@@ -162,7 +180,7 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "Purcell, C",
+          "teacher": "",
           "assignment": "i-Ready Wks of 8/31 to 9/7",
           "dateGraded": "2026-09-14",
           "score": 2,
@@ -189,8 +207,8 @@
         },
         {
           "class": "Geography 6 S1",
-          "teacher": "Turner, S",
-          "assignment": "ATA (Themes, Long/Lat,Continents)",
+          "teacher": "",
+          "assignment": "ATA (Themes, Long/Lat, Continents)",
           "dateGraded": "2026-09-11",
           "score": 12,
           "possible": 14,
@@ -198,7 +216,7 @@
         },
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "Tower of Treasure",
           "dateGraded": "2026-09-11",
           "score": 10,
@@ -207,7 +225,7 @@
         },
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "Mindful Mountain",
           "dateGraded": "2026-09-11",
           "score": 10,
@@ -216,7 +234,7 @@
         },
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "Kind Kingdom",
           "dateGraded": "2026-09-11",
           "score": 10,
@@ -225,7 +243,7 @@
         },
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "Reality River",
           "dateGraded": "2026-09-11",
           "score": 10,
@@ -234,7 +252,7 @@
         },
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "ISTE 2.b Digital Citizenship Pre-Assessment",
           "dateGraded": "2026-09-11",
           "score": 9.091,
@@ -243,7 +261,7 @@
         },
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "Introduction Slides",
           "dateGraded": "2026-09-11",
           "score": 45,
@@ -252,7 +270,7 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "Purcell, C",
+          "teacher": "",
           "assignment": "1.1.2 Area & Perimeter Worksheet",
           "dateGraded": "2026-09-09",
           "score": 2,
@@ -285,15 +303,6 @@
           "score": 8.5,
           "possible": 10,
           "percent": "85%"
-        },
-        {
-          "class": "Geography 6 S1",
-          "teacher": "Turner, S",
-          "assignment": "5 Themes Mosaic",
-          "dateGraded": "2026-09-08",
-          "score": 13,
-          "possible": 20,
-          "percent": "65%"
         }
       ]
     }
