@@ -1,17 +1,19 @@
 {
-  "generated": "2026-09-16",
+  "generated": "2026-09-17",
   "students": {
     "Cameron": {
       "missing": [
-        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography", "dueDate": "2026-08-29", "daysOverdue": 18, "points": 10},
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 0 Homework #5 Pg. 19-20", "dueDate": "2026-09-03", "daysOverdue": 13, "points": 3},
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 1 Homework #2 Pg. 9-11", "dueDate": "2026-09-09", "daysOverdue": 7, "points": 3},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab", "dueDate": "2026-09-11", "daysOverdue": 5, "points": 10}
+        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 0 Homework #5 Pg. 19-20", "dueDate": "2026-09-03", "daysOverdue": 14, "points": 3},
+        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 1 Homework #2 Pg. 9-11", "dueDate": "2026-09-09", "daysOverdue": 8, "points": 3},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab", "dueDate": "2026-09-11", "daysOverdue": 6, "points": 10}
       ],
       "upcoming": [
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "States of Matter Color by Number", "dueDate": "2026-09-22", "daysUntilDue": 6}
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Density Quiz", "dueDate": "2026-09-18", "daysUntilDue": 1},
+        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "States of Matter Color by Number", "dueDate": "2026-09-22", "daysUntilDue": 5}
       ],
       "graded": [
+        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/14 - 9/20", "dateGraded": "2026-09-17", "score": 4, "possible": 4, "percent": "100%"},
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography (LATE, TURNED IN)", "dateGraded": "2026-09-17", "score": 6, "possible": 10, "percent": "60%"},
         {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 2 (LATE)", "dateGraded": "2026-09-15", "score": 6, "possible": 6, "percent": "100%"},
         {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/8-9/13", "dateGraded": "2026-09-15", "score": 3, "possible": 4, "percent": "75%"},
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Interpreting Graphs Color by Number", "dateGraded": "2026-09-14", "score": 3, "possible": 3, "percent": "100%"},
@@ -27,9 +29,17 @@
     "Zachary": {
       "missing": [],
       "upcoming": [
-        {"class": "Geography 6 S1", "teacher": "", "assignment": "Ch1: Fundamentals of Geography", "dueDate": "2026-09-17", "daysUntilDue": 1}
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "Ch1: Fundamentals of Geography", "dueDate": "2026-09-17", "daysUntilDue": 0},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #4 Heat Transfer", "dueDate": "2026-09-22", "daysUntilDue": 5}
       ],
       "graded": [
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Maya/Volcano Summary", "dateGraded": "2026-09-17", "score": 5, "possible": 6, "percent": "83.33%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Alma Inferences", "dateGraded": "2026-09-17", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Point of View - My Achilles' Meal", "dateGraded": "2026-09-17", "score": 6, "possible": 8, "percent": "75%"},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Check In Matter & Density (Open Note)", "dateGraded": "2026-09-17", "score": 8.4, "possible": 10, "percent": "84%"},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Check In Variables (Open Note)", "dateGraded": "2026-09-17", "score": 8.5, "possible": 10, "percent": "85%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Melody, Harmony, Rhythm & Automation", "dateGraded": "2026-09-16", "score": 12, "possible": 12, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Rounding Decimals--ESCAPE ROOM (TURNED IN)", "dateGraded": "2026-09-16", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Edpuzzle: Rhythm, Melody, Harmony", "dateGraded": "2026-09-15", "score": 10, "possible": 10, "percent": "100%"},
         {"class": "PE/Health 6 S1", "teacher": "Darks, R", "assignment": "Week 1&2", "dateGraded": "2026-09-15", "score": 30, "possible": 30, "percent": "100%"},
         {"class": "Math 6 S1", "teacher": "", "assignment": "Warm Up Quiz #2", "dateGraded": "2026-09-14", "score": 6, "possible": 5, "percent": "120%"},
@@ -42,10 +52,7 @@
         {"class": "EXPLO 6-Computer Science", "teacher": "", "assignment": "Kind Kingdom", "dateGraded": "2026-09-11", "score": 10, "possible": 10, "percent": "100%"},
         {"class": "EXPLO 6-Computer Science", "teacher": "", "assignment": "Reality River", "dateGraded": "2026-09-11", "score": 10, "possible": 10, "percent": "100%"},
         {"class": "EXPLO 6-Computer Science", "teacher": "", "assignment": "ISTE 2.b Digital Citizenship Pre-Assessment", "dateGraded": "2026-09-11", "score": 9.091, "possible": 10, "percent": "90.91%"},
-        {"class": "EXPLO 6-Computer Science", "teacher": "", "assignment": "Introduction Slides", "dateGraded": "2026-09-11", "score": 45, "possible": 50, "percent": "90%"},
-        {"class": "Math 6 S1", "teacher": "", "assignment": "1.1.2 Area & Perimeter Worksheet", "dateGraded": "2026-09-09", "score": 2, "possible": 2, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Layering Loops", "dateGraded": "2026-09-09", "score": 5, "possible": 10, "percent": "50%"},
-        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #2 Ed Puzzle (What is Science)", "dateGraded": "2026-09-09", "score": 3, "possible": 3, "percent": "100%"}
+        {"class": "EXPLO 6-Computer Science", "teacher": "", "assignment": "Introduction Slides", "dateGraded": "2026-09-11", "score": 45, "possible": 50, "percent": "90%"}
       ]
     }
   }
