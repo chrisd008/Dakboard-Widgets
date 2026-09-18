@@ -11,6 +11,7 @@
         {"class": "Physical Science S1", "teacher": "", "assignment": "States of Matter Color by Number", "dueDate": "2026-09-21", "daysUntilDue": 3}
       ],
       "graded": [
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "9/4 \"Medicine Bag\" CR (TURNED IN)", "dateGraded": "2026-09-18", "score": 6, "possible": 9, "percent": "66.66%"},
         {"class": "Physical Science S1", "teacher": "", "assignment": "Density Quiz", "dateGraded": "2026-09-17", "score": 20, "possible": 24, "percent": "83.33%"},
         {"class": "Spanish I S1", "teacher": "", "assignment": "DuoLingo: Week of 9/14 - 9/20", "dateGraded": "2026-09-17", "score": 4, "possible": 4, "percent": "100%"},
         {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography (INCOMPLETE, LATE, TURNED IN)", "dateGraded": "2026-09-17", "score": 6, "possible": 10, "percent": "60%"},
@@ -19,7 +20,6 @@
         {"class": "Physical Science S1", "teacher": "", "assignment": "Interpreting Graphs Color by Number", "dateGraded": "2026-09-14", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "Questions Columbian Exchange", "dateGraded": "2026-09-14", "score": 22, "possible": 24, "percent": "91.66%"},
         {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "Explore Savvas 3 interactives", "dateGraded": "2026-09-14", "score": 9, "possible": 9, "percent": "100%"},
-        {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "9/4 \"Medicine Bag\" CR (TURNED IN)", "dateGraded": "2026-09-14", "score": null, "possible": null, "percent": ""},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "", "assignment": "9/8-9/10 Selection Test: Banana Tree", "dateGraded": "2026-09-14", "score": 7, "possible": 12, "percent": "58.33%"},
         {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 2 Participation", "dateGraded": "2026-09-11", "score": 8, "possible": 8, "percent": "100%"},
         {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 2 Sportsmanship", "dateGraded": "2026-09-11", "score": 4, "possible": 4, "percent": "100%"},
