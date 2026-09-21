@@ -14,6 +14,9 @@
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "States of Matter Color by Number", "dueDate": "2026-09-21", "daysUntilDue": 0}
       ],
       "graded": [
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 3 Sportsmanship", "dateGraded": "2026-09-21", "score": 4, "possible": 4, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 3 Participation", "dateGraded": "2026-09-21", "score": 7, "possible": 8, "percent": "87.5%"},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/11 \"The Banana Tree\" CR (INCOMPLETE)", "dateGraded": "2026-09-20", "score": null, "possible": null, "percent": "Incomplete"},
         {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Solving Equations Zombie Activity", "dateGraded": "2026-09-18", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/4 \"Medicine Bag\" CR (TURNED IN)", "dateGraded": "2026-09-18", "score": 6, "possible": 9, "percent": "66.66%"},
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Density Quiz", "dateGraded": "2026-09-17", "score": 20, "possible": 24, "percent": "83.33%"},
@@ -29,10 +32,10 @@
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [
-        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #4 Heat Transfer", "dueDate": "2026-09-21", "daysUntilDue": 0}
-      ],
+      "upcoming": [],
       "graded": [
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #4 Heat Transfer", "dateGraded": "2026-09-21", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "MIlls, L", "assignment": "Lucky Feet Packet", "dateGraded": "2026-09-21", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "I-Ready Wk of 9/14 (TURNED IN)", "dateGraded": "2026-09-21", "score": 2, "possible": 2, "percent": "100%"},
         {"class": "English Lang Arts 6 S1", "teacher": "MIlls, L", "assignment": "Mentor Text Summaries: Maya & Volcanoes (LATE)", "dateGraded": "2026-09-19", "score": 5, "possible": 6, "percent": "83.33%"},
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Warm Up Quiz #3", "dateGraded": "2026-09-19", "score": 6, "possible": 5, "percent": "120%"},
