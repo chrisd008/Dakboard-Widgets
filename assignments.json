@@ -9,7 +9,9 @@
         {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Chapter 1 Homework 6 (Pg. 23-24)", "dueDate": "2026-09-17", "daysOverdue": 5, "points": 3},
         {"class": "Art 8", "teacher": "Bundy, E", "assignment": "Optical Illusion", "dueDate": "2026-09-19", "daysOverdue": 3, "points": 100}
       ],
-      "upcoming": [],
+      "upcoming": [
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "Massachusetts Colony reading w/s", "dueDate": "2026-09-22", "daysUntilDue": 0}
+      ],
       "graded": [
         {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "States of Matter Color by Number", "dateGraded": "2026-09-22", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 3 Sportsmanship", "dateGraded": "2026-09-21", "score": 4, "possible": 4, "percent": "100%"},
@@ -30,6 +32,7 @@
       "missing": [],
       "upcoming": [],
       "graded": [
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Mary Had A Little Lamb - Editing", "dateGraded": "2026-09-22", "score": 15, "possible": 15, "percent": "100%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #4 Heat Transfer", "dateGraded": "2026-09-21", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "English Lang Arts 6 S1", "teacher": "Mills, L", "assignment": "Lucky Feet Packet", "dateGraded": "2026-09-21", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "I-Ready Wk of 9/14 (Turned In)", "dateGraded": "2026-09-21", "score": 2, "possible": 2, "percent": "100%"},
