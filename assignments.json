@@ -1,52 +1,49 @@
 {
-  "generated": "2026-09-22",
+  "generated": "2026-09-23",
   "students": {
     "Cameron": {
       "missing": [
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 0 Homework #5 Pg. 19-20", "dueDate": "2026-09-02", "daysOverdue": 20, "points": 3},
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 1 Homework #2 Pg. 9-11", "dueDate": "2026-09-08", "daysOverdue": 14, "points": 3},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Sink or Float Lab", "dueDate": "2026-09-10", "daysOverdue": 12, "points": 10},
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Chapter 1 Homework 6 (Pg. 23-24)", "dueDate": "2026-09-17", "daysOverdue": 5, "points": 3},
-        {"class": "Art 8", "teacher": "Bundy, E", "assignment": "Optical Illusion", "dueDate": "2026-09-19", "daysOverdue": 3, "points": 100}
+        {"class": "Algebra I S1", "teacher": "", "assignment": "Ch. 0 Homework #5 Pg. 19-20", "dueDate": "2026-09-02", "daysOverdue": 21, "points": 3},
+        {"class": "Algebra I S1", "teacher": "", "assignment": "Ch. 1 Homework #2 Pg. 9-11", "dueDate": "2026-09-08", "daysOverdue": 15, "points": 3},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Sink or Float Lab", "dueDate": "2026-09-10", "daysOverdue": 13, "points": 10},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/11 \"The Banana Tree\" CR", "dueDate": "2026-09-14", "daysOverdue": 9, "points": 10},
+        {"class": "Algebra I S1", "teacher": "", "assignment": "Chapter 1 Homework 6 (Pg. 23-24)", "dueDate": "2026-09-17", "daysOverdue": 6, "points": 3},
+        {"class": "Art 8", "teacher": "", "assignment": "Optical Illusion", "dueDate": "2026-09-19", "daysOverdue": 4, "points": 100}
       ],
       "upcoming": [
-        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "Massachusetts Colony reading w/s", "dueDate": "2026-09-22", "daysUntilDue": 0}
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Mystery Liquid Follow Up", "dueDate": "2026-09-23", "daysUntilDue": 0}
       ],
       "graded": [
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "States of Matter Color by Number", "dateGraded": "2026-09-22", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 3 Sportsmanship", "dateGraded": "2026-09-21", "score": 4, "possible": 4, "percent": "100%"},
-        {"class": "PE/Health 8 S1", "teacher": "Williams, K", "assignment": "Week 3 Participation", "dateGraded": "2026-09-21", "score": 7, "possible": 8, "percent": "87.5%"},
-        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/11 \"The Banana Tree\" CR (Incomplete)", "dateGraded": "2026-09-20", "score": null, "possible": null, "percent": ""},
-        {"class": "Art 8", "teacher": "Bundy, E", "assignment": "Optical Illusion (Missing)", "dateGraded": "2026-09-20", "score": 0, "possible": 100, "percent": "0%"},
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Chapter 1 Homework 6 (Pg. 23-24) (Missing)", "dateGraded": "2026-09-18", "score": 0, "possible": 3, "percent": "0%"},
-        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Solving Equations Zombie Activity", "dateGraded": "2026-09-18", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/4 \"Medicine Bag\" CR (Turned In)", "dateGraded": "2026-09-18", "score": 6, "possible": 9, "percent": "66.66%"},
-        {"class": "Physical Science S1", "teacher": "Hinkebein, G", "assignment": "Density Quiz", "dateGraded": "2026-09-17", "score": 20, "possible": 24, "percent": "83.33%"},
-        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/14 - 9/20", "dateGraded": "2026-09-17", "score": 4, "possible": 4, "percent": "100%"},
-        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography (Incomplete, Late, Turned In)", "dateGraded": "2026-09-17", "score": 6, "possible": 10, "percent": "60%"},
-        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "Puedo Ir Al Bano Nugget 2 (Late)", "dateGraded": "2026-09-15", "score": 6, "possible": 6, "percent": "100%"},
-        {"class": "Spanish I S1", "teacher": "Charlton, K", "assignment": "DuoLingo: Week of 9/8-9/13", "dateGraded": "2026-09-15", "score": 3, "possible": 4, "percent": "75%"}
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/11 \"The Banana Tree\" CR", "dateGraded": "2026-09-22", "score": 0, "possible": 10, "percent": "0%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "States of Matter Color by Number", "dateGraded": "2026-09-22", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 3 Sportsmanship", "dateGraded": "2026-09-21", "score": 4, "possible": 4, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 3 Participation", "dateGraded": "2026-09-21", "score": 7, "possible": 8, "percent": "87.5%"},
+        {"class": "Art 8", "teacher": "", "assignment": "Optical Illusion", "dateGraded": "2026-09-20", "score": 0, "possible": 100, "percent": "0%"},
+        {"class": "Algebra I S1", "teacher": "", "assignment": "Chapter 1 Homework 6 (Pg. 23-24)", "dateGraded": "2026-09-18", "score": 0, "possible": 3, "percent": "0%"},
+        {"class": "Algebra I S1", "teacher": "", "assignment": "Solving Equations Zombie Activity", "dateGraded": "2026-09-18", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/4 \"Medicine Bag\" CR (TURNED IN)", "dateGraded": "2026-09-18", "score": 6, "possible": 9, "percent": "66.66%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Density Quiz", "dateGraded": "2026-09-17", "score": 20, "possible": 24, "percent": "83.33%"},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "DuoLingo: Week of 9/14 - 9/20", "dateGraded": "2026-09-17", "score": 4, "possible": 4, "percent": "100%"},
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "5 themes of Geography (LATE, TURNED IN)", "dateGraded": "2026-09-17", "score": 6, "possible": 10, "percent": "60%"}
       ]
     },
     "Zachary": {
       "missing": [],
       "upcoming": [],
       "graded": [
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Mary Had A Little Lamb - Editing", "dateGraded": "2026-09-22", "score": 15, "possible": 15, "percent": "100%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "", "assignment": "Mary Had A Little Lamb - Editing", "dateGraded": "2026-09-22", "score": 15, "possible": 15, "percent": "100%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #4 Heat Transfer", "dateGraded": "2026-09-21", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "English Lang Arts 6 S1", "teacher": "Mills, L", "assignment": "Lucky Feet Packet", "dateGraded": "2026-09-21", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "I-Ready Wk of 9/14 (Turned In)", "dateGraded": "2026-09-21", "score": 2, "possible": 2, "percent": "100%"},
-        {"class": "English Lang Arts 6 S1", "teacher": "Mills, L", "assignment": "Mentor Text Summaries: Maya & Volcanoes (Late)", "dateGraded": "2026-09-19", "score": 5, "possible": 6, "percent": "83.33%"},
-        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Warm Up Quiz #3", "dateGraded": "2026-09-19", "score": 6, "possible": 5, "percent": "120%"},
-        {"class": "Geography 6 S1", "teacher": "Turner, S", "assignment": "Ch1: Fundamentals of Geography", "dateGraded": "2026-09-17", "score": 34, "possible": 43, "percent": "79.07%"},
-        {"class": "English Lang Arts 6 S1", "teacher": "Mills, L", "assignment": "Alma Inferences", "dateGraded": "2026-09-17", "score": 3, "possible": 3, "percent": "100%"},
-        {"class": "English Lang Arts 6 S1", "teacher": "Mills, L", "assignment": "Point of View - My Achilles' Meal", "dateGraded": "2026-09-17", "score": 6, "possible": 8, "percent": "75%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Lucky Feet Packet", "dateGraded": "2026-09-21", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "I-Ready Wk of 9/14 (TURNED IN)", "dateGraded": "2026-09-21", "score": 2, "possible": 2, "percent": "100%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Mentor Text Summaries: Maya & Volcanoes (LATE)", "dateGraded": "2026-09-19", "score": 5, "possible": 6, "percent": "83.33%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Warm Up Quiz #3", "dateGraded": "2026-09-19", "score": 6, "possible": 5, "percent": "120%"},
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "Ch1: Fundamentals of Geography", "dateGraded": "2026-09-17", "score": 34, "possible": 43, "percent": "79.07%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Alma Inferences", "dateGraded": "2026-09-17", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Point of View - My Achilles' Meal", "dateGraded": "2026-09-17", "score": 6, "possible": 8, "percent": "75%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Check In Matter & Density (Open Note)", "dateGraded": "2026-09-17", "score": 8.4, "possible": 10, "percent": "84%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Check In Variables (Open Note)", "dateGraded": "2026-09-17", "score": 8.5, "possible": 10, "percent": "85%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Melody, Harmony, Rhythm & Automation", "dateGraded": "2026-09-16", "score": 12, "possible": 12, "percent": "100%"},
-        {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Rounding Decimals--ESCAPE ROOM (Turned In)", "dateGraded": "2026-09-16", "score": 5, "possible": 5, "percent": "100%"},
-        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Edpuzzle: Rhythm, Melody, Harmony", "dateGraded": "2026-09-15", "score": 10, "possible": 10, "percent": "100%"},
-        {"class": "PE/Health 6 S1", "teacher": "Darks, R", "assignment": "Week 1&2", "dateGraded": "2026-09-15", "score": 30, "possible": 30, "percent": "100%"}
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "", "assignment": "Melody, Harmony, Rhythm & Automation", "dateGraded": "2026-09-16", "score": 12, "possible": 12, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Rounding Decimals--ESCAPE ROOM (TURNED IN)", "dateGraded": "2026-09-16", "score": 5, "possible": 5, "percent": "100%"}
       ]
     }
   }
