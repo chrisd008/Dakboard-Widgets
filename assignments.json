@@ -3,269 +3,49 @@
   "students": {
     "Cameron": {
       "missing": [
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Ch. 0 Homework #5 Pg. 19-20",
-          "dueDate": "2026-09-02",
-          "daysOverdue": 27,
-          "points": 3
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Ch. 1 Homework #2 Pg. 9-11",
-          "dueDate": "2026-09-08",
-          "daysOverdue": 21,
-          "points": 3
-        },
-        {
-          "class": "Physical Science S1",
-          "teacher": "",
-          "assignment": "Sink or Float Lab",
-          "dueDate": "2026-09-10",
-          "daysOverdue": 19,
-          "points": 10
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/11 \"The Banana Tree\" CR",
-          "dueDate": "2026-09-14",
-          "daysOverdue": 15,
-          "points": 10
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Homework 6 (Pg. 23-24)",
-          "dueDate": "2026-09-17",
-          "daysOverdue": 12,
-          "points": 3
-        },
-        {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Optical Illusion",
-          "dueDate": "2026-09-19",
-          "daysOverdue": 10,
-          "points": 100
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Homework 6.5 (Pg. 28-30)",
-          "dueDate": "2026-09-21",
-          "daysOverdue": 8,
-          "points": 3
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/21-9/22 \"The Story-Teller\" Homework",
-          "dueDate": "2026-09-23",
-          "daysOverdue": 6,
-          "points": 10
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "Pronombres",
-          "dueDate": "2026-09-24",
-          "daysOverdue": 5,
-          "points": 7
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "Hispanic Heritage Month Biografia",
-          "dueDate": "2026-09-25",
-          "daysOverdue": 4,
-          "points": 10
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "La Lucha de la Limonada - Nuggets 1 & 2",
-          "dueDate": "2026-09-25",
-          "daysOverdue": 4,
-          "points": 12
-        }
+        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 0 Homework #5 Pg. 19-20", "dueDate": "2026-09-02", "daysOverdue": 27, "points": 3},
+        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 1 Homework #2 Pg. 9-11", "dueDate": "2026-09-08", "daysOverdue": 21, "points": 3},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Sink or Float Lab", "dueDate": "2026-09-10", "daysOverdue": 19, "points": 10},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/11 \"The Banana Tree\" CR", "dueDate": "2026-09-14", "daysOverdue": 15, "points": 10},
+        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Chapter 1 Homework 6 (Pg. 23-24)", "dueDate": "2026-09-17", "daysOverdue": 12, "points": 3},
+        {"class": "Art 8", "teacher": "", "assignment": "Optical Illusion", "dueDate": "2026-09-19", "daysOverdue": 10, "points": 100},
+        {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Chapter 1 Homework 6.5 (Pg. 28-30)", "dueDate": "2026-09-21", "daysOverdue": 8, "points": 3},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/21-9/22 \"The Story-Teller\" Homework", "dueDate": "2026-09-23", "daysOverdue": 6, "points": 10},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "Pronombres", "dueDate": "2026-09-24", "daysOverdue": 5, "points": 7},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "Hispanic Heritage Month Biografia", "dueDate": "2026-09-25", "daysOverdue": 4, "points": 10},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "La Lucha de la Limonada - Nuggets 1 & 2", "dueDate": "2026-09-25", "daysOverdue": 4, "points": 12}
       ],
       "upcoming": [
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "Prueba de Pronombres",
-          "dueDate": "2026-09-29",
-          "daysUntilDue": 0
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "NE and Middle colonies notesheets",
-          "dueDate": "2026-09-29",
-          "daysUntilDue": 0
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "QUIZNE Middle Colonies",
-          "dueDate": "2026-09-29",
-          "daysUntilDue": 0
-        }
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "NE and Middle colonies notesheets", "dueDate": "2026-09-29", "daysUntilDue": 0},
+        {"class": "US History 8 S1", "teacher": "Olwig, M", "assignment": "QUIZNE Middle Colonies", "dueDate": "2026-09-29", "daysUntilDue": 0}
       ],
       "graded": [
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "DuoLingo: Week of 9/21 - 9/27",
-          "dateGraded": "2026-09-28",
-          "score": 10,
-          "possible": 10,
-          "percent": "100%"
-        },
-        {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Bell work",
-          "dateGraded": "2026-09-27",
-          "score": 5,
-          "possible": 5,
-          "percent": "100%"
-        },
-        {
-          "class": "PE/Health 8 S1",
-          "teacher": "",
-          "assignment": "Week 4 Sportsmanship",
-          "dateGraded": "2026-09-27",
-          "score": 5,
-          "possible": 5,
-          "percent": "100%"
-        },
-        {
-          "class": "PE/Health 8 S1",
-          "teacher": "",
-          "assignment": "Week 4 Participation",
-          "dateGraded": "2026-09-27",
-          "score": 10,
-          "possible": 10,
-          "percent": "100%"
-        }
+        {"class": "Spanish I S1", "teacher": "", "assignment": "Prueba de Pronombres", "dateGraded": "2026-09-29", "score": 23, "possible": 25, "percent": "92%"},
+        {"class": "Spanish I S1", "teacher": "", "assignment": "DuoLingo: Week of 9/21 - 9/27", "dateGraded": "2026-09-28", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "Art 8", "teacher": "", "assignment": "Bell work", "dateGraded": "2026-09-27", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 4 Sportsmanship", "dateGraded": "2026-09-27", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 4 Participation", "dateGraded": "2026-09-27", "score": 10, "possible": 10, "percent": "100%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Mystery Liquid Follow Up", "dateGraded": "2026-09-24", "score": 15, "possible": 20, "percent": "75%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "Phys & Chem Properties Quiz", "dateGraded": "2026-09-24", "score": 9, "possible": 14, "percent": "64.28%"},
+        {"class": "Physical Science S1", "teacher": "", "assignment": "States of Matter Color by Number", "dateGraded": "2026-09-22", "score": 3, "possible": 3, "percent": "100%"}
       ]
     },
     "Zachary": {
       "missing": [],
       "upcoming": [],
       "graded": [
-        {
-          "class": "English Lang Arts 6 S1",
-          "teacher": "",
-          "assignment": "Summary: MAM",
-          "dateGraded": "2026-09-28",
-          "score": 7,
-          "possible": 6,
-          "percent": "116.66%"
-        },
-        {
-          "class": "English Lang Arts 6 S1",
-          "teacher": "",
-          "assignment": "My Achilles Mean Selection Test",
-          "dateGraded": "2026-09-28",
-          "score": 7,
-          "possible": 10,
-          "percent": "70%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Weekly Skills #5 Study Island (Engineering Design)",
-          "dateGraded": "2026-09-28",
-          "score": 2.39,
-          "possible": 3,
-          "percent": "79.66%"
-        },
-        {
-          "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "I-Ready Wk of 9/21 (TURNED IN)",
-          "dateGraded": "2026-09-28",
-          "score": 2,
-          "possible": 2,
-          "percent": "100%"
-        },
-        {
-          "class": "PE/Health 6 S1",
-          "teacher": "Darks, R",
-          "assignment": "Week 3, 4, 5",
-          "dateGraded": "2026-09-28",
-          "score": 42,
-          "possible": 42,
-          "percent": "100%"
-        },
-        {
-          "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "Warm Up Quiz #3 (TURNED IN)",
-          "dateGraded": "2026-09-26",
-          "score": 6,
-          "possible": 5,
-          "percent": "120%"
-        },
-        {
-          "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "Warm Up Quiz #4 (TURNED IN)",
-          "dateGraded": "2026-09-26",
-          "score": 4,
-          "possible": 5,
-          "percent": "80%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Check In Heat Transfer (Open Note)",
-          "dateGraded": "2026-09-25",
-          "score": 8,
-          "possible": 10,
-          "percent": "80%"
-        },
-        {
-          "class": "Geography 6 S1",
-          "teacher": "",
-          "assignment": "Weather Challenge",
-          "dateGraded": "2026-09-24",
-          "score": 3,
-          "possible": 3,
-          "percent": "100%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Bellringer Check Week #5",
-          "dateGraded": "2026-09-24",
-          "score": 3,
-          "possible": 3,
-          "percent": "100%"
-        },
-        {
-          "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "Chapter 1 Quiz 1",
-          "dateGraded": "2026-09-23",
-          "score": 21.5,
-          "possible": 24,
-          "percent": "89.58%"
-        },
-        {
-          "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "Bunch, J Q1",
-          "assignment": "Mary Had A Little Lamb - Editing",
-          "dateGraded": "2026-09-22",
-          "score": 15,
-          "possible": 15,
-          "percent": "100%"
-        }
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Summary: MAM", "dateGraded": "2026-09-28", "score": 7, "possible": 6, "percent": "116.66%"},
+        {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "My Achilles Mean Selection Test", "dateGraded": "2026-09-28", "score": 7, "possible": 10, "percent": "70%"},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #5 Study Island (Engineering Design)", "dateGraded": "2026-09-28", "score": 2.39, "possible": 3, "percent": "79.66%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "I-Ready Wk of 9/21 (Turned In)", "dateGraded": "2026-09-28", "score": 2, "possible": 2, "percent": "100%"},
+        {"class": "PE/Health 6 S1", "teacher": "Darks, R", "assignment": "Week 3, 4, 5", "dateGraded": "2026-09-28", "score": 42, "possible": 42, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Warm Up Quiz #3 (Turned In)", "dateGraded": "2026-09-26", "score": 6, "possible": 5, "percent": "120%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Warm Up Quiz #4 (Turned In)", "dateGraded": "2026-09-26", "score": 4, "possible": 5, "percent": "80%"},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Check In Heat Transfer (Open Note)", "dateGraded": "2026-09-25", "score": 8, "possible": 10, "percent": "80%"},
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "Weather Challenge", "dateGraded": "2026-09-24", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Bellringer Check Week #5", "dateGraded": "2026-09-24", "score": 3, "possible": 3, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "Chapter 1 Quiz 1", "dateGraded": "2026-09-23", "score": 21.5, "possible": 24, "percent": "89.58%"},
+        {"class": "EXPLO 6 -Music Prod & Tech", "teacher": "Bunch, J", "assignment": "Mary Had A Little Lamb - Editing", "dateGraded": "2026-09-22", "score": 15, "possible": 15, "percent": "100%"}
       ]
     }
   }
