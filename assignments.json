@@ -100,7 +100,7 @@
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Homework 6 (Pg. 23-24) (LATE, TURNED IN)",
+          "assignment": "Chapter 1 Homework 6 (Pg. 23-24)",
           "dateGraded": "2026-09-30",
           "score": 2,
           "possible": 3,
@@ -109,7 +109,7 @@
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
-          "assignment": "Ch. 1 Homework #2 Pg. 9-11 (LATE, TURNED IN)",
+          "assignment": "Ch. 1 Homework #2 Pg. 9-11",
           "dateGraded": "2026-09-30",
           "score": 1.5,
           "possible": 3,
@@ -118,7 +118,7 @@
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
-          "assignment": "Ch. 0 Homework #5 Pg. 19-20 (LATE, TURNED IN)",
+          "assignment": "Ch. 0 Homework #5 Pg. 19-20",
           "dateGraded": "2026-09-30",
           "score": 1,
           "possible": 3,
@@ -127,11 +127,29 @@
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Homework 6.5 (Pg. 28-30) (LATE, TURNED IN)",
+          "assignment": "Chapter 1 Homework 6.5 (Pg. 28-30)",
           "dateGraded": "2026-09-30",
           "score": 2,
           "possible": 3,
           "percent": "66.66%"
+        },
+        {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "9/11 \"The Banana Tree\" CR (INCOMPLETE, TURNED IN)",
+          "dateGraded": "2026-09-30",
+          "score": null,
+          "possible": null,
+          "percent": ""
+        },
+        {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "9/17 Theme Worksheet",
+          "dateGraded": "2026-09-30",
+          "score": 0,
+          "possible": 5,
+          "percent": "0%"
         },
         {
           "class": "PE/Health 8 S1",
@@ -150,6 +168,33 @@
           "score": 23,
           "possible": 25,
           "percent": "92%"
+        },
+        {
+          "class": "Spanish I S1",
+          "teacher": "",
+          "assignment": "Pronombres",
+          "dateGraded": "2026-09-28",
+          "score": 0,
+          "possible": 7,
+          "percent": "0%"
+        },
+        {
+          "class": "Spanish I S1",
+          "teacher": "",
+          "assignment": "La Lucha de la Limonada - Nuggets 1 & 2",
+          "dateGraded": "2026-09-28",
+          "score": 0,
+          "possible": 12,
+          "percent": "0%"
+        },
+        {
+          "class": "Spanish I S1",
+          "teacher": "",
+          "assignment": "Hispanic Heritage Month Biografia",
+          "dateGraded": "2026-09-28",
+          "score": 0,
+          "possible": 10,
+          "percent": "0%"
         },
         {
           "class": "Spanish I S1",
@@ -188,6 +233,15 @@
           "percent": "100%"
         },
         {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "9/21-9/22 \"The Story-Teller\" Homework",
+          "dateGraded": "2026-09-25",
+          "score": 0,
+          "possible": 10,
+          "percent": "0%"
+        },
+        {
           "class": "Physical Science S1",
           "teacher": "",
           "assignment": "Mystery Liquid Follow Up",
@@ -220,21 +274,30 @@
       ],
       "graded": [
         {
-          "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "Bunch, J Q1",
-          "assignment": "Create Your PSA/Commercial Script",
+          "class": "Math 6 S1",
+          "teacher": "",
+          "assignment": "Prime Factorization",
           "dateGraded": "2026-10-01",
-          "score": 20,
-          "possible": 20,
+          "score": 3,
+          "possible": 3,
           "percent": "100%"
         },
         {
           "class": "Math 6 S1",
           "teacher": "",
           "assignment": "GCF/LCM Escape Room!",
-          "dateGraded": "2026-09-30",
+          "dateGraded": "2026-10-01",
           "score": 5,
           "possible": 5,
+          "percent": "100%"
+        },
+        {
+          "class": "EXPLO 6 -Music Prod & Tech",
+          "teacher": "Bunch, J Q1",
+          "assignment": "Create Your PSA/Commercial Script",
+          "dateGraded": "2026-10-01",
+          "score": 20,
+          "possible": 20,
           "percent": "100%"
         },
         {
@@ -302,7 +365,7 @@
         },
         {
           "class": "PE/Health 6 S1",
-          "teacher": "Darks, R",
+          "teacher": "Darko, R",
           "assignment": "Week 3, 4, 5",
           "dateGraded": "2026-09-28",
           "score": 42,
