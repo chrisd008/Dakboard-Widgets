@@ -33,7 +33,9 @@
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [],
+      "upcoming": [
+        {"class": "English Lang Arts 6 S1", "teacher": "MIlls, L", "assignment": "MAM Selection Test", "dueDate": "2026-10-02", "daysUntilDue": 0}
+      ],
       "graded": [
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "Prime Factorization (TURNED IN)", "dateGraded": "2026-10-01", "score": 3, "possible": 3, "percent": "100%"},
         {"class": "Math 6 S1", "teacher": "Purcell, C", "assignment": "GCF/LCM Escape Room! (TURNED IN)", "dateGraded": "2026-10-01", "score": 5, "possible": 5, "percent": "100%"},
