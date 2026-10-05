@@ -21,6 +21,8 @@
         {"class": "Physical Science S1", "teacher": "", "assignment": "Counting Atoms Color by Number", "dueDate": "2026-10-09", "daysUntilDue": 4}
       ],
       "graded": [
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 5 Sportsmanship", "dateGraded": "2026-10-05", "score": 5, "possible": 5, "percent": "100%"},
+        {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Week 5 Participation", "dateGraded": "2026-10-05", "score": 10, "possible": 10, "percent": "100%"},
         {"class": "Spanish I S1", "teacher": "", "assignment": "DuoLingo: Week of 9/28 - 10/4", "dateGraded": "2026-10-05", "score": 4.6, "possible": 10, "percent": "46%"},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "Flowers for Algernon Assignment 2", "dateGraded": "2026-10-04", "score": 8, "possible": 9, "percent": "88.88%"},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/24-9/25 The Story-teller CR (MISSING)", "dateGraded": "2026-10-04", "score": 0, "possible": 10, "percent": "0%"},
@@ -36,6 +38,7 @@
         {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 1 Homework #2 Pg. 9-11", "dateGraded": "2026-09-30", "score": 1.5, "possible": 3, "percent": "50%"},
         {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Ch. 0 Homework #5 Pg. 19-20", "dateGraded": "2026-09-30", "score": 1, "possible": 3, "percent": "33.33%"},
         {"class": "Algebra I S1", "teacher": "Irwin, J", "assignment": "Chapter 1 Homework 6.5 (Pg. 28-30)", "dateGraded": "2026-09-30", "score": 2, "possible": 3, "percent": "66.66%"},
+        {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/11 \"The Banana Tree\" CR", "dateGraded": "2026-09-30", "score": null, "possible": null, "percent": ""},
         {"class": "Honors English Lang Arts 8 S1", "teacher": "Beeson, A", "assignment": "9/17 Theme Worksheet (MISSING)", "dateGraded": "2026-09-30", "score": 0, "possible": 5, "percent": "0%"},
         {"class": "PE/Health 8 S1", "teacher": "", "assignment": "Mile Run Quarter 1", "dateGraded": "2026-09-29", "score": 5, "possible": 5, "percent": "100%"},
         {"class": "Spanish I S1", "teacher": "", "assignment": "Prueba de Pronombres", "dateGraded": "2026-09-29", "score": 23, "possible": 25, "percent": "92%"},
@@ -48,6 +51,7 @@
       "missing": [],
       "upcoming": [
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills#7 StudyIsland (Composition of matter)", "dueDate": "2026-10-05", "daysUntilDue": 0},
+        {"class": "Geography 6 S1", "teacher": "", "assignment": "Hispanic Heritage Project", "dueDate": "2026-10-05", "daysUntilDue": 0},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Check In week 6 (Open Note)", "dueDate": "2026-10-12", "daysUntilDue": 7}
       ],
       "graded": [
@@ -64,7 +68,7 @@
         {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "Summary: MAM", "dateGraded": "2026-09-28", "score": 7, "possible": 6, "percent": "116.66%"},
         {"class": "English Lang Arts 6 S1", "teacher": "", "assignment": "My Achilles Mean Selection Test", "dateGraded": "2026-09-28", "score": 7, "possible": 10, "percent": "70%"},
         {"class": "Earth Science 6 S1", "teacher": "Crawford, M", "assignment": "Weekly Skills #5 Study Island (Engineering Design)", "dateGraded": "2026-09-28", "score": 2.39, "possible": 3, "percent": "79.66%"},
-        {"class": "Math 6 S1", "teacher": "", "assignment": "I-Ready Wk of 9/21", "dateGraded": "2026-09-28", "score": 2, "possible": 2, "percent": "100%"},
+        {"class": "Math 6 S1", "teacher": "", "assignment": "I-Ready Wk of 9/21 (TURNED IN)", "dateGraded": "2026-09-28", "score": 2, "possible": 2, "percent": "100%"},
         {"class": "PE/Health 6 S1", "teacher": "Darks, R", "assignment": "Week 3, 4, 5", "dateGraded": "2026-09-28", "score": 42, "possible": 42, "percent": "100%"}
       ]
     }
