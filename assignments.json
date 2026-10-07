@@ -151,24 +151,6 @@
           "percent": "66.66%"
         },
         {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 3(Pg. 22-23)",
-          "dateGraded": "2026-10-05",
-          "score": 0,
-          "possible": 3,
-          "percent": "0%"
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 4(Pg 30-31)",
-          "dateGraded": "2026-10-05",
-          "score": 0,
-          "possible": 3,
-          "percent": "0%"
-        },
-        {
           "class": "Spanish I S1",
           "teacher": "",
           "assignment": "Unidad 1 Paquete",
@@ -200,8 +182,8 @@
           "teacher": "",
           "assignment": "DuoLingo: Week of 9/28 - 10/4",
           "dateGraded": "2026-10-05",
-          "score": 4.6,
-          "possible": 10,
+          "score": null,
+          "possible": null,
           "percent": "46%"
         },
         {
@@ -212,51 +194,6 @@
           "score": 8,
           "possible": 9,
           "percent": "88.88%"
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/24-9/25 The Story-teller CR",
-          "dateGraded": "2026-10-04",
-          "score": 0,
-          "possible": 10,
-          "percent": "0%"
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/29 Flowers for Algernon Assignment 1",
-          "dateGraded": "2026-10-02",
-          "score": 0,
-          "possible": 9,
-          "percent": "0%"
-        },
-        {
-          "class": "Physical Science S1",
-          "teacher": "",
-          "assignment": "Elements, Compounds, & Mixtures Color by Number",
-          "dateGraded": "2026-10-02",
-          "score": 0,
-          "possible": 3,
-          "percent": "0%"
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "Massachusetts Colony reading w?s",
-          "dateGraded": "2026-10-02",
-          "score": 0,
-          "possible": 9,
-          "percent": "0%"
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "NE and Middle colonies notesheets",
-          "dateGraded": "2026-10-02",
-          "score": 0,
-          "possible": 15,
-          "percent": "0%"
         },
         {
           "class": "Spanish I S1",
@@ -308,8 +245,8 @@
           "teacher": "Irwin, J",
           "assignment": "Ch. 1 Homework #2 Pg. 9-11",
           "dateGraded": "2026-09-30",
-          "score": 1.5,
-          "possible": 3,
+          "score": null,
+          "possible": null,
           "percent": "50%"
         },
         {
@@ -320,48 +257,22 @@
           "score": 1,
           "possible": 3,
           "percent": "33.33%"
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Homework 6.5 (Pg. 28-30)",
-          "dateGraded": "2026-09-30",
-          "score": 2,
-          "possible": 3,
-          "percent": "66.66%"
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/11 \"The Banana Tree\" CR",
-          "dateGraded": "2026-09-30",
-          "score": null,
-          "possible": null,
-          "percent": ""
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/17 Theme Worksheet",
-          "dateGraded": "2026-09-30",
-          "score": 0,
-          "possible": 5,
-          "percent": "0%"
         }
       ]
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [
+      "upcoming": [],
+      "graded": [
         {
           "class": "Geography 6 S1",
           "teacher": "",
           "assignment": "Map test",
-          "dueDate": "2026-10-07",
-          "daysUntilDue": 0
-        }
-      ],
-      "graded": [
+          "dateGraded": "2026-10-07",
+          "score": 7,
+          "possible": 9,
+          "percent": "77.77%"
+        },
         {
           "class": "Math 6 S1",
           "teacher": "",
@@ -376,8 +287,8 @@
           "teacher": "Crawford, M",
           "assignment": "Weekly Skills#6 StudyIsland(Composition of matter)",
           "dateGraded": "2026-10-07",
-          "score": 2.39,
-          "possible": 3,
+          "score": null,
+          "possible": null,
           "percent": "79.66%"
         },
         {
@@ -417,8 +328,8 @@
           "percent": "100%"
         },
         {
-          "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "Bunch, J",
+          "class": "",
+          "teacher": "",
           "assignment": "PSA/Commercial Project",
           "dateGraded": "2026-10-06",
           "score": 94,
@@ -430,8 +341,8 @@
           "teacher": "",
           "assignment": "Sel. Test MAM",
           "dateGraded": "2026-10-05",
-          "score": 5.83,
-          "possible": 10,
+          "score": null,
+          "possible": null,
           "percent": "58.3%"
         },
         {
@@ -480,30 +391,12 @@
           "percent": "100%"
         },
         {
-          "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "Bunch, J",
+          "class": "",
+          "teacher": "",
           "assignment": "Create Your PSA/Commercial Script",
           "dateGraded": "2026-10-01",
           "score": 20,
           "possible": 20,
-          "percent": "100%"
-        },
-        {
-          "class": "Geography 6 S1",
-          "teacher": "",
-          "assignment": "Environmental Stations",
-          "dateGraded": "2026-09-30",
-          "score": 5,
-          "possible": 5,
-          "percent": "100%"
-        },
-        {
-          "class": "Geography 6 S1",
-          "teacher": "",
-          "assignment": "Gummy Bear Governments",
-          "dateGraded": "2026-09-30",
-          "score": 5,
-          "possible": 5,
           "percent": "100%"
         }
       ]
