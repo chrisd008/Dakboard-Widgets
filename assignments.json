@@ -1,38 +1,22 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-08",
   "students": {
     "Cameron": {
       "missing": [
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Sink or Float Lab",
           "dueDate": "2026-09-10",
-          "daysOverdue": 27,
+          "daysOverdue": 28,
           "points": 10
-        },
-        {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Optical Illusion",
-          "dueDate": "2026-09-19",
-          "daysOverdue": 18,
-          "points": 100
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/17 Theme Worksheet",
-          "dueDate": "2026-09-21",
-          "daysOverdue": 16,
-          "points": 5
         },
         {
           "class": "US History 8 S1",
           "teacher": "Olwig, M",
           "assignment": "Massachusetts Colony reading w?s",
           "dueDate": "2026-09-22",
-          "daysOverdue": 15,
+          "daysOverdue": 16,
           "points": 9
         },
         {
@@ -40,23 +24,23 @@
           "teacher": "Beeson, A",
           "assignment": "9/21-9/22 \"The Story-Teller\" Homework",
           "dueDate": "2026-09-23",
-          "daysOverdue": 14,
+          "daysOverdue": 15,
           "points": 10
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Pronombres",
           "dueDate": "2026-09-24",
-          "daysOverdue": 13,
+          "daysOverdue": 14,
           "points": 7
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Hispanic Heritage Month Biografia",
           "dueDate": "2026-09-25",
-          "daysOverdue": 12,
+          "daysOverdue": 13,
           "points": 10
         },
         {
@@ -64,77 +48,89 @@
           "teacher": "Beeson, A",
           "assignment": "9/24-9/25 The Story-teller CR",
           "dueDate": "2026-09-27",
-          "daysOverdue": 10,
+          "daysOverdue": 11,
           "points": 10
+        },
+        {
+          "class": "Art 8",
+          "teacher": "Bundy, E",
+          "assignment": "Atmospheric Perspective",
+          "dueDate": "2026-09-28",
+          "daysOverdue": 10,
+          "points": 100
         },
         {
           "class": "US History 8 S1",
           "teacher": "Olwig, M",
           "assignment": "NE and Middle colonies notesheets",
           "dueDate": "2026-09-29",
-          "daysOverdue": 8,
+          "daysOverdue": 9,
           "points": 15
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/29 Flowers for Algernon Assignment 1",
-          "dueDate": "2026-09-30",
-          "daysOverdue": 7,
-          "points": 9
         },
         {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
           "assignment": "Chapter 2 Homework 3(Pg. 22-23)",
           "dueDate": "2026-10-02",
-          "daysOverdue": 5,
+          "daysOverdue": 6,
           "points": 3
         },
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Elements, Compounds, & Mixtures Color by Number",
           "dueDate": "2026-10-02",
-          "daysOverdue": 5,
-          "points": 3
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 4(Pg 30-31)",
-          "dueDate": "2026-10-05",
-          "daysOverdue": 2,
+          "daysOverdue": 6,
           "points": 3
         }
       ],
       "upcoming": [
         {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "QUIZSouth and Gov colonial w Map",
-          "dueDate": "2026-10-07",
-          "daysUntilDue": 0
+          "class": "Physical Science S1",
+          "teacher": "Hinkebein, G",
+          "assignment": "Atomic Structure Quiz",
+          "dueDate": "2026-10-09",
+          "daysUntilDue": 1
         },
         {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "VOCAB Colonial Gov't",
-          "dueDate": "2026-10-07",
-          "daysUntilDue": 0
-        },
-        {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Atmospheric Perspective",
-          "dueDate": "2026-10-28",
-          "daysUntilDue": 21
+          "class": "Physical Science S1",
+          "teacher": "Hinkebein, G",
+          "assignment": "Element Advertisement Project",
+          "dueDate": "2026-10-12",
+          "daysUntilDue": 4
         }
       ],
       "graded": [
         {
+          "class": "Algebra I S1",
+          "teacher": "Irwin, J",
+          "assignment": "Chapter 2 Homework 4(Pg 30-31) (LATE, TURNED IN)",
+          "dateGraded": "2026-10-08",
+          "score": 2,
+          "possible": 3,
+          "percent": "66.66%"
+        },
+        {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "9/11 \"The Banana Tree\" CR (INCOMPLETE, TURNED IN)",
+          "dateGraded": "2026-10-08",
+          "score": 8,
+          "possible": 9,
+          "percent": "88.88%"
+        },
+        {
+          "class": "Art 8",
+          "teacher": "Bundy, E",
+          "assignment": "Optical Illusion (TURNED IN)",
+          "dateGraded": "2026-10-08",
+          "score": 85,
+          "possible": 100,
+          "percent": "85%"
+        },
+        {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Counting Atoms Color by Number",
           "dateGraded": "2026-10-07",
           "score": 3,
@@ -143,7 +139,7 @@
         },
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Counting Atoms Worksheet",
           "dateGraded": "2026-10-06",
           "score": 4,
@@ -152,7 +148,7 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Unidad 1 Paquete",
           "dateGraded": "2026-10-05",
           "score": 17,
@@ -161,7 +157,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "",
+          "teacher": "Williams, K",
           "assignment": "Week 5 Sportsmanship",
           "dateGraded": "2026-10-05",
           "score": 5,
@@ -170,7 +166,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "",
+          "teacher": "Williams, K",
           "assignment": "Week 5 Participation",
           "dateGraded": "2026-10-05",
           "score": 10,
@@ -179,11 +175,11 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "DuoLingo: Week of 9/28 - 10/4",
           "dateGraded": "2026-10-05",
-          "score": null,
-          "possible": null,
+          "score": 4.6,
+          "possible": 10,
           "percent": "46%"
         },
         {
@@ -197,7 +193,7 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "La Lucha de la Limonada - Nuggets 1 & 2",
           "dateGraded": "2026-10-02",
           "score": 12,
@@ -212,61 +208,24 @@
           "score": 30,
           "possible": 33,
           "percent": "90.90%"
-        },
-        {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Bell Work",
-          "dateGraded": "2026-09-30",
-          "score": 5,
-          "possible": 5,
-          "percent": "100%"
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Test",
-          "dateGraded": "2026-09-30",
-          "score": 44,
-          "possible": 72,
-          "percent": "61.11%"
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 1 Homework 6 (Pg. 23-24)",
-          "dateGraded": "2026-09-30",
-          "score": 2,
-          "possible": 3,
-          "percent": "66.66%"
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Ch. 1 Homework #2 Pg. 9-11",
-          "dateGraded": "2026-09-30",
-          "score": null,
-          "possible": null,
-          "percent": "50%"
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Ch. 0 Homework #5 Pg. 19-20",
-          "dateGraded": "2026-09-30",
-          "score": 1,
-          "possible": 3,
-          "percent": "33.33%"
         }
       ]
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [],
+      "upcoming": [
+        {
+          "class": "Geography 6 S1",
+          "teacher": "Turner, S",
+          "assignment": "North American Map Analysis",
+          "dueDate": "2026-10-08",
+          "daysUntilDue": 0
+        }
+      ],
       "graded": [
         {
           "class": "Geography 6 S1",
-          "teacher": "",
+          "teacher": "Turner, S",
           "assignment": "Map test",
           "dateGraded": "2026-10-07",
           "score": 7,
@@ -275,8 +234,8 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "1st Quarter Summative Practice",
+          "teacher": "Purcell, C",
+          "assignment": "1st Quarter Summative Practice (TURNED IN)",
           "dateGraded": "2026-10-07",
           "score": 2,
           "possible": 6,
@@ -287,13 +246,13 @@
           "teacher": "Crawford, M",
           "assignment": "Weekly Skills#6 StudyIsland(Composition of matter)",
           "dateGraded": "2026-10-07",
-          "score": null,
-          "possible": null,
+          "score": 2.39,
+          "possible": 3,
           "percent": "79.66%"
         },
         {
           "class": "English Lang Arts 6 S1",
-          "teacher": "",
+          "teacher": "Wilmoth, L",
           "assignment": "Punctuating Dialogue WS",
           "dateGraded": "2026-10-07",
           "score": 10,
@@ -311,7 +270,7 @@
         },
         {
           "class": "Geography 6 S1",
-          "teacher": "",
+          "teacher": "Turner, S",
           "assignment": "Hispanic Heritage Project",
           "dateGraded": "2026-10-06",
           "score": 20,
@@ -320,7 +279,7 @@
         },
         {
           "class": "English Lang Arts 6 S1",
-          "teacher": "",
+          "teacher": "Wilmoth, L",
           "assignment": "Summary: My Achilles' Meal",
           "dateGraded": "2026-10-06",
           "score": 6,
@@ -328,8 +287,8 @@
           "percent": "100%"
         },
         {
-          "class": "",
-          "teacher": "",
+          "class": "EXPLO 6 -Music Prod & Tech",
+          "teacher": "Bunch, J",
           "assignment": "PSA/Commercial Project",
           "dateGraded": "2026-10-06",
           "score": 94,
@@ -338,11 +297,11 @@
         },
         {
           "class": "English Lang Arts 6 S1",
-          "teacher": "",
+          "teacher": "Wilmoth, L",
           "assignment": "Sel. Test MAM",
           "dateGraded": "2026-10-05",
-          "score": null,
-          "possible": null,
+          "score": 5.83,
+          "possible": 10,
           "percent": "58.3%"
         },
         {
@@ -356,7 +315,7 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
+          "teacher": "Purcell, C",
           "assignment": "I-Ready Wk of 9/28",
           "dateGraded": "2026-10-05",
           "score": 2,
@@ -365,8 +324,8 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "Warm Up Quiz #5",
+          "teacher": "Purcell, C",
+          "assignment": "Warm Up Quiz #5 (TURNED IN)",
           "dateGraded": "2026-10-03",
           "score": 4,
           "possible": 5,
@@ -374,8 +333,8 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "Prime Factorization",
+          "teacher": "Purcell, C",
+          "assignment": "Prime Factorization (TURNED IN)",
           "dateGraded": "2026-10-01",
           "score": 3,
           "possible": 3,
@@ -383,16 +342,16 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "GCF/LCM Escape Room!",
+          "teacher": "Purcell, C",
+          "assignment": "GCF/LCM Escape Room! (TURNED IN)",
           "dateGraded": "2026-10-01",
           "score": 5,
           "possible": 5,
           "percent": "100%"
         },
         {
-          "class": "",
-          "teacher": "",
+          "class": "EXPLO 6 -Music Prod & Tech",
+          "teacher": "Bunch, J",
           "assignment": "Create Your PSA/Commercial Script",
           "dateGraded": "2026-10-01",
           "score": 20,
