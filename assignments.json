@@ -102,9 +102,18 @@
       ],
       "graded": [
         {
+          "class": "Art 8",
+          "teacher": "Bundy, E",
+          "assignment": "Atmospheric Perspective",
+          "dateGraded": "2026-10-08",
+          "score": 0,
+          "possible": 100,
+          "percent": "0%"
+        },
+        {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 4(Pg 30-31) (LATE, TURNED IN)",
+          "assignment": "Chapter 2 Homework 4(Pg 30-31)",
           "dateGraded": "2026-10-08",
           "score": 2,
           "possible": 3,
@@ -113,7 +122,7 @@
         {
           "class": "Honors English Lang Arts 8 S1",
           "teacher": "Beeson, A",
-          "assignment": "9/11 \"The Banana Tree\" CR (INCOMPLETE, TURNED IN)",
+          "assignment": "9/11 \"The Banana Tree\" CR",
           "dateGraded": "2026-10-08",
           "score": 8,
           "possible": 9,
@@ -122,7 +131,7 @@
         {
           "class": "Art 8",
           "teacher": "Bundy, E",
-          "assignment": "Optical Illusion (TURNED IN)",
+          "assignment": "Optical Illusion",
           "dateGraded": "2026-10-08",
           "score": 85,
           "possible": 100,
@@ -145,6 +154,15 @@
           "score": 4,
           "possible": 6,
           "percent": "66.66%"
+        },
+        {
+          "class": "Algebra I S1",
+          "teacher": "Irwin, J",
+          "assignment": "Chapter 2 Homework 3(Pg. 22-23)",
+          "dateGraded": "2026-10-05",
+          "score": 0,
+          "possible": 3,
+          "percent": "0%"
         },
         {
           "class": "Spanish I S1",
@@ -192,6 +210,42 @@
           "percent": "88.88%"
         },
         {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "9/24-9/25 The Story-teller CR",
+          "dateGraded": "2026-10-04",
+          "score": 0,
+          "possible": 10,
+          "percent": "0%"
+        },
+        {
+          "class": "Physical Science S1",
+          "teacher": "Hinkebein, G",
+          "assignment": "Elements, Compounds, & Mixtures Color by Number",
+          "dateGraded": "2026-10-02",
+          "score": 0,
+          "possible": 3,
+          "percent": "0%"
+        },
+        {
+          "class": "US History 8 S1",
+          "teacher": "Olwig, M",
+          "assignment": "Massachusetts Colony reading w?s",
+          "dateGraded": "2026-10-02",
+          "score": 0,
+          "possible": 9,
+          "percent": "0%"
+        },
+        {
+          "class": "US History 8 S1",
+          "teacher": "Olwig, M",
+          "assignment": "NE and Middle colonies notesheets",
+          "dateGraded": "2026-10-02",
+          "score": 0,
+          "possible": 15,
+          "percent": "0%"
+        },
+        {
           "class": "Spanish I S1",
           "teacher": "Charlton, K",
           "assignment": "La Lucha de la Limonada - Nuggets 1 & 2",
@@ -213,16 +267,17 @@
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [
+      "upcoming": [],
+      "graded": [
         {
           "class": "Geography 6 S1",
           "teacher": "Turner, S",
           "assignment": "North American Map Analysis",
-          "dueDate": "2026-10-08",
-          "daysUntilDue": 0
-        }
-      ],
-      "graded": [
+          "dateGraded": "2026-10-08",
+          "score": 5,
+          "possible": 5,
+          "percent": "100%"
+        },
         {
           "class": "Geography 6 S1",
           "teacher": "Turner, S",
@@ -235,7 +290,7 @@
         {
           "class": "Math 6 S1",
           "teacher": "Purcell, C",
-          "assignment": "1st Quarter Summative Practice (TURNED IN)",
+          "assignment": "1st Quarter Summative Practice",
           "dateGraded": "2026-10-07",
           "score": 2,
           "possible": 6,
@@ -325,7 +380,7 @@
         {
           "class": "Math 6 S1",
           "teacher": "Purcell, C",
-          "assignment": "Warm Up Quiz #5 (TURNED IN)",
+          "assignment": "Warm Up Quiz #5",
           "dateGraded": "2026-10-03",
           "score": 4,
           "possible": 5,
@@ -334,7 +389,7 @@
         {
           "class": "Math 6 S1",
           "teacher": "Purcell, C",
-          "assignment": "Prime Factorization (TURNED IN)",
+          "assignment": "Prime Factorization",
           "dateGraded": "2026-10-01",
           "score": 3,
           "possible": 3,
@@ -343,7 +398,7 @@
         {
           "class": "Math 6 S1",
           "teacher": "Purcell, C",
-          "assignment": "GCF/LCM Escape Room! (TURNED IN)",
+          "assignment": "GCF/LCM Escape Room!",
           "dateGraded": "2026-10-01",
           "score": 5,
           "possible": 5,
