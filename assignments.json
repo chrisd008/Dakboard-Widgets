@@ -118,6 +118,13 @@
       ],
       "upcoming": [
         {
+          "class": "Algebra I S1",
+          "teacher": "Irwin, J",
+          "assignment": "Chapter 2 Test",
+          "dueDate": "2026-10-15",
+          "daysUntilDue": 2
+        },
+        {
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
           "assignment": "Quarter 1 TEST",
