@@ -5,7 +5,7 @@
       "missing": [
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Sink or Float Lab",
           "dueDate": "2026-09-10",
           "daysOverdue": 34,
@@ -29,7 +29,7 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Pronombres",
           "dueDate": "2026-09-24",
           "daysOverdue": 20,
@@ -37,7 +37,7 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Hispanic Heritage Month Biografia",
           "dueDate": "2026-09-25",
           "daysOverdue": 19,
@@ -53,7 +53,7 @@
         },
         {
           "class": "Art 8",
-          "teacher": "",
+          "teacher": "Bundy, E",
           "assignment": "Atmospheric Perspective",
           "dueDate": "2026-09-28",
           "daysOverdue": 16,
@@ -69,7 +69,7 @@
         },
         {
           "class": "Algebra I S1",
-          "teacher": "",
+          "teacher": "Irwin, J",
           "assignment": "Chapter 2 Homework 3(Pg. 22-23)",
           "dueDate": "2026-10-02",
           "daysOverdue": 12,
@@ -77,7 +77,7 @@
         },
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Elements, Compounds, & Mixtures Color by Number",
           "dueDate": "2026-10-02",
           "daysOverdue": 12,
@@ -85,7 +85,7 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Edpuzzle | Hispanic Heritage Month",
           "dueDate": "2026-10-05",
           "daysOverdue": 9,
@@ -101,11 +101,19 @@
         },
         {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Como Se Dice - Exit Ticket Wrap-Up Slide",
           "dueDate": "2026-10-09",
           "daysOverdue": 5,
           "points": 10
+        },
+        {
+          "class": "Algebra I S1",
+          "teacher": "Irwin, J",
+          "assignment": "Chapter 2 Homework 9 (Pg. 54-55)",
+          "dueDate": "2026-10-12",
+          "daysOverdue": 2,
+          "points": 3
         },
         {
           "class": "Honors English Lang Arts 8 S1",
@@ -116,16 +124,8 @@
           "points": 10
         },
         {
-          "class": "Algebra I S1",
-          "teacher": "",
-          "assignment": "Chapter 2 Homework 9 (Pg. 54-55)",
-          "dueDate": "2026-10-12",
-          "daysOverdue": 2,
-          "points": 3
-        },
-        {
           "class": "Art 8",
-          "teacher": "",
+          "teacher": "Bundy, E",
           "assignment": "Cubism Character",
           "dueDate": "2026-10-15",
           "daysOverdue": 0,
@@ -135,14 +135,14 @@
       "upcoming": [
         {
           "class": "Algebra I S1",
-          "teacher": "",
+          "teacher": "Irwin, J",
           "assignment": "Chapter 2 Test",
           "dueDate": "2026-10-15",
           "daysUntilDue": 1
         },
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Quarter 1 TEST",
           "dueDate": "2026-10-15",
           "daysUntilDue": 1
@@ -151,7 +151,7 @@
       "graded": [
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Element Advertisement Project",
           "dateGraded": "2026-10-14",
           "score": 48,
@@ -159,17 +159,8 @@
           "percent": "80%"
         },
         {
-          "class": "Algebra I S1",
-          "teacher": "",
-          "assignment": "Chapter 2 Homework 9 (Pg. 54-55)",
-          "dateGraded": "2026-10-14",
-          "score": 0,
-          "possible": 3,
-          "percent": "0%"
-        },
-        {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "Como Se Dice - Nuggets 1 and 2",
           "dateGraded": "2026-10-14",
           "score": 12,
@@ -178,7 +169,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "",
+          "teacher": "Williams, K",
           "assignment": "Week 6 Sportsmanship",
           "dateGraded": "2026-10-13",
           "score": 5,
@@ -187,7 +178,7 @@
         },
         {
           "class": "PE/Health 8 S1",
-          "teacher": "",
+          "teacher": "Williams, K",
           "assignment": "Week #6 Participation",
           "dateGraded": "2026-10-13",
           "score": 8,
@@ -195,31 +186,13 @@
           "percent": "80%"
         },
         {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/8-10/9 Charly Watching Question",
-          "dateGraded": "2026-10-13",
-          "score": 0,
-          "possible": 10,
-          "percent": "0%"
-        },
-        {
           "class": "Spanish I S1",
-          "teacher": "",
+          "teacher": "Charlton, K",
           "assignment": "DuoLingo: Week of 10/5 - 10/11",
           "dateGraded": "2026-10-13",
           "score": 7,
           "possible": 10,
           "percent": "70%"
-        },
-        {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Cubism Character",
-          "dateGraded": "2026-10-12",
-          "score": 0,
-          "possible": 100,
-          "percent": "0%"
         },
         {
           "class": "US History 8 S1",
@@ -231,40 +204,13 @@
           "percent": "100%"
         },
         {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/6-10/8 Flowers for Algernon CR",
-          "dateGraded": "2026-10-10",
-          "score": 0,
-          "possible": 10,
-          "percent": "0%"
-        },
-        {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Atomic Structure Quiz",
           "dateGraded": "2026-10-10",
           "score": 19,
           "possible": 25,
           "percent": "76%"
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "Como Se Dice - Exit Ticket Wrap-Up Slide",
-          "dateGraded": "2026-10-09",
-          "score": 0,
-          "possible": 10,
-          "percent": "0%"
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "",
-          "assignment": "Edpuzzle | Hispanic Heritage Month",
-          "dateGraded": "2026-10-09",
-          "score": 0,
-          "possible": 5,
-          "percent": "0%"
         },
         {
           "class": "US History 8 S1",
@@ -285,17 +231,8 @@
           "percent": "50%"
         },
         {
-          "class": "Art 8",
-          "teacher": "",
-          "assignment": "Atmospheric Perspective",
-          "dateGraded": "2026-10-08",
-          "score": 0,
-          "possible": 100,
-          "percent": "0%"
-        },
-        {
           "class": "Algebra I S1",
-          "teacher": "",
+          "teacher": "Irwin, J",
           "assignment": "Chapter 2 Homework 4(Pg 30-31)",
           "dateGraded": "2026-10-08",
           "score": 2,
@@ -313,7 +250,7 @@
         },
         {
           "class": "Art 8",
-          "teacher": "",
+          "teacher": "Bundy, E",
           "assignment": "Optical Illusion",
           "dateGraded": "2026-10-08",
           "score": 85,
@@ -322,7 +259,7 @@
         },
         {
           "class": "Physical Science S1",
-          "teacher": "",
+          "teacher": "Hinkebein, G",
           "assignment": "Counting Atoms Color by Number",
           "dateGraded": "2026-10-07",
           "score": 3,
@@ -336,8 +273,17 @@
       "upcoming": [],
       "graded": [
         {
+          "class": "EXPLO 6-Computer Science",
+          "teacher": "Silzle, C",
+          "assignment": "Sketchup House",
+          "dateGraded": "2026-10-14",
+          "score": 85,
+          "possible": 100,
+          "percent": "85%"
+        },
+        {
           "class": "PE/Health 6 S1",
-          "teacher": "",
+          "teacher": "Darks, R",
           "assignment": "Week 7",
           "dateGraded": "2026-10-14",
           "score": 15,
@@ -345,17 +291,8 @@
           "percent": "100%"
         },
         {
-          "class": "EXPLO 6-Computer Science",
-          "teacher": "",
-          "assignment": "Sketchup House",
-          "dateGraded": "2026-10-13",
-          "score": 85,
-          "possible": 100,
-          "percent": "85%"
-        },
-        {
           "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "",
+          "teacher": "Bunch, J",
           "assignment": "Plan My Introducing Myself Song",
           "dateGraded": "2026-10-13",
           "score": 20,
@@ -364,7 +301,7 @@
         },
         {
           "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "",
+          "teacher": "Bunch, J",
           "assignment": "Introducing Yourself Through Music",
           "dateGraded": "2026-10-13",
           "score": 94,
@@ -382,7 +319,7 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
+          "teacher": "Purcell, C",
           "assignment": "Warm Up Quiz #6",
           "dateGraded": "2026-10-12",
           "score": 3,
@@ -391,7 +328,7 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
+          "teacher": "Purcell, C",
           "assignment": "I-Ready Wk of 10/5",
           "dateGraded": "2026-10-12",
           "score": 2,
@@ -400,7 +337,7 @@
         },
         {
           "class": "English Lang Arts 6 S1",
-          "teacher": "",
+          "teacher": "Wilmoth, L",
           "assignment": "Dialogue Worksheet",
           "dateGraded": "2026-10-09",
           "score": 10,
@@ -409,7 +346,7 @@
         },
         {
           "class": "English Lang Arts 6 S1",
-          "teacher": "",
+          "teacher": "Wilmoth, L",
           "assignment": "Oranges Worksheet",
           "dateGraded": "2026-10-09",
           "score": 10,
@@ -436,7 +373,7 @@
         },
         {
           "class": "Geography 6 S1",
-          "teacher": "",
+          "teacher": "Turner, S",
           "assignment": "North American Map Analysis",
           "dateGraded": "2026-10-08",
           "score": 5,
@@ -445,7 +382,7 @@
         },
         {
           "class": "Geography 6 S1",
-          "teacher": "",
+          "teacher": "Turner, S",
           "assignment": "Map test",
           "dateGraded": "2026-10-07",
           "score": 7,
@@ -454,21 +391,12 @@
         },
         {
           "class": "Math 6 S1",
-          "teacher": "",
+          "teacher": "Purcell, C",
           "assignment": "1st Quarter Summative Practice",
           "dateGraded": "2026-10-07",
           "score": 2,
           "possible": 6,
           "percent": "33.33%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Weekly Skills#6 StudyIsland(Composition of matter)",
-          "dateGraded": "2026-10-07",
-          "score": 2.39,
-          "possible": 3,
-          "percent": "79.66%"
         },
         {
           "class": "Earth Science 6 S1",
