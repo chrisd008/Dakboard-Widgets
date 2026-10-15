@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-15",
   "students": {
     "Cameron": {
       "missing": [
@@ -8,7 +8,7 @@
           "teacher": "Hinkebein, G",
           "assignment": "Sink or Float Lab",
           "dueDate": "2026-09-10",
-          "daysOverdue": 34,
+          "daysOverdue": 35,
           "points": 10
         },
         {
@@ -16,7 +16,7 @@
           "teacher": "Olwig, M",
           "assignment": "Massachusetts Colony reading w?s",
           "dueDate": "2026-09-22",
-          "daysOverdue": 22,
+          "daysOverdue": 23,
           "points": 9
         },
         {
@@ -24,7 +24,7 @@
           "teacher": "Beeson, A",
           "assignment": "9/21-9/22 \"The Story-Teller\" Homework",
           "dueDate": "2026-09-23",
-          "daysOverdue": 21,
+          "daysOverdue": 22,
           "points": 10
         },
         {
@@ -32,7 +32,7 @@
           "teacher": "Charlton, K",
           "assignment": "Pronombres",
           "dueDate": "2026-09-24",
-          "daysOverdue": 20,
+          "daysOverdue": 21,
           "points": 7
         },
         {
@@ -40,7 +40,7 @@
           "teacher": "Charlton, K",
           "assignment": "Hispanic Heritage Month Biografia",
           "dueDate": "2026-09-25",
-          "daysOverdue": 19,
+          "daysOverdue": 20,
           "points": 10
         },
         {
@@ -48,7 +48,7 @@
           "teacher": "Beeson, A",
           "assignment": "9/24-9/25 The Story-teller CR",
           "dueDate": "2026-09-27",
-          "daysOverdue": 17,
+          "daysOverdue": 18,
           "points": 10
         },
         {
@@ -56,7 +56,7 @@
           "teacher": "Bundy, E",
           "assignment": "Atmospheric Perspective",
           "dueDate": "2026-09-28",
-          "daysOverdue": 16,
+          "daysOverdue": 17,
           "points": 100
         },
         {
@@ -64,7 +64,7 @@
           "teacher": "Olwig, M",
           "assignment": "NE and Middle colonies notesheets",
           "dueDate": "2026-09-29",
-          "daysOverdue": 15,
+          "daysOverdue": 16,
           "points": 15
         },
         {
@@ -72,7 +72,7 @@
           "teacher": "Irwin, J",
           "assignment": "Chapter 2 Homework 3(Pg. 22-23)",
           "dueDate": "2026-10-02",
-          "daysOverdue": 12,
+          "daysOverdue": 13,
           "points": 3
         },
         {
@@ -80,7 +80,7 @@
           "teacher": "Hinkebein, G",
           "assignment": "Elements, Compounds, & Mixtures Color by Number",
           "dueDate": "2026-10-02",
-          "daysOverdue": 12,
+          "daysOverdue": 13,
           "points": 3
         },
         {
@@ -88,7 +88,7 @@
           "teacher": "Charlton, K",
           "assignment": "Edpuzzle | Hispanic Heritage Month",
           "dueDate": "2026-10-05",
-          "daysOverdue": 9,
+          "daysOverdue": 10,
           "points": 5
         },
         {
@@ -96,7 +96,7 @@
           "teacher": "Beeson, A",
           "assignment": "10/6-10/8 Flowers for Algernon CR",
           "dueDate": "2026-10-09",
-          "daysOverdue": 5,
+          "daysOverdue": 6,
           "points": 10
         },
         {
@@ -104,7 +104,7 @@
           "teacher": "Charlton, K",
           "assignment": "Como Se Dice - Exit Ticket Wrap-Up Slide",
           "dueDate": "2026-10-09",
-          "daysOverdue": 5,
+          "daysOverdue": 6,
           "points": 10
         },
         {
@@ -112,7 +112,7 @@
           "teacher": "Irwin, J",
           "assignment": "Chapter 2 Homework 9 (Pg. 54-55)",
           "dueDate": "2026-10-12",
-          "daysOverdue": 2,
+          "daysOverdue": 3,
           "points": 3
         },
         {
@@ -120,7 +120,7 @@
           "teacher": "Beeson, A",
           "assignment": "10/8-10/9 Charly Watching Question",
           "dueDate": "2026-10-12",
-          "daysOverdue": 2,
+          "daysOverdue": 3,
           "points": 10
         },
         {
@@ -138,14 +138,21 @@
           "teacher": "Irwin, J",
           "assignment": "Chapter 2 Test",
           "dueDate": "2026-10-15",
-          "daysUntilDue": 1
+          "daysUntilDue": 0
         },
         {
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
           "assignment": "Quarter 1 TEST",
           "dueDate": "2026-10-15",
-          "daysUntilDue": 1
+          "daysUntilDue": 0
+        },
+        {
+          "class": "Art 8",
+          "teacher": "Bundy, E",
+          "assignment": "Atmospheric Perspective",
+          "dueDate": "2026-10-28",
+          "daysUntilDue": 13
         }
       ],
       "graded": [
@@ -157,6 +164,15 @@
           "score": 48,
           "possible": 60,
           "percent": "80%"
+        },
+        {
+          "class": "Algebra I S1",
+          "teacher": "Irwin, J",
+          "assignment": "Chapter 2 Homework 9 (Pg. 54-55) (Missing)",
+          "dateGraded": "2026-10-14",
+          "score": 0,
+          "possible": 3,
+          "percent": "0%"
         },
         {
           "class": "Spanish I S1",
@@ -186,6 +202,15 @@
           "percent": "80%"
         },
         {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "10/8-10/9 Charly Watching Question (Missing)",
+          "dateGraded": "2026-10-13",
+          "score": 0,
+          "possible": 10,
+          "percent": "0%"
+        },
+        {
           "class": "Spanish I S1",
           "teacher": "Charlton, K",
           "assignment": "DuoLingo: Week of 10/5 - 10/11",
@@ -193,6 +218,15 @@
           "score": 7,
           "possible": 10,
           "percent": "70%"
+        },
+        {
+          "class": "Art 8",
+          "teacher": "Bundy, E",
+          "assignment": "Cubism Character (Missing)",
+          "dateGraded": "2026-10-12",
+          "score": 0,
+          "possible": 100,
+          "percent": "0%"
         },
         {
           "class": "US History 8 S1",
@@ -204,6 +238,15 @@
           "percent": "100%"
         },
         {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "10/6-10/8 Flowers for Algernon CR (Missing)",
+          "dateGraded": "2026-10-10",
+          "score": 0,
+          "possible": 10,
+          "percent": "0%"
+        },
+        {
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
           "assignment": "Atomic Structure Quiz",
@@ -211,6 +254,24 @@
           "score": 19,
           "possible": 25,
           "percent": "76%"
+        },
+        {
+          "class": "Spanish I S1",
+          "teacher": "Charlton, K",
+          "assignment": "Como Se Dice - Exit Ticket Wrap-Up Slide (Missing)",
+          "dateGraded": "2026-10-09",
+          "score": 0,
+          "possible": 10,
+          "percent": "0%"
+        },
+        {
+          "class": "Spanish I S1",
+          "teacher": "Charlton, K",
+          "assignment": "Edpuzzle | Hispanic Heritage Month (Missing)",
+          "dateGraded": "2026-10-09",
+          "score": 0,
+          "possible": 5,
+          "percent": "0%"
         },
         {
           "class": "US History 8 S1",
@@ -231,9 +292,18 @@
           "percent": "50%"
         },
         {
+          "class": "Art 8",
+          "teacher": "Bundy, E",
+          "assignment": "Atmospheric Perspective (Missing)",
+          "dateGraded": "2026-10-08",
+          "score": 0,
+          "possible": 100,
+          "percent": "0%"
+        },
+        {
           "class": "Algebra I S1",
           "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 4(Pg 30-31)",
+          "assignment": "Chapter 2 Homework 4(Pg 30-31) (Late)",
           "dateGraded": "2026-10-08",
           "score": 2,
           "possible": 3,
@@ -256,15 +326,6 @@
           "score": 85,
           "possible": 100,
           "percent": "85%"
-        },
-        {
-          "class": "Physical Science S1",
-          "teacher": "Hinkebein, G",
-          "assignment": "Counting Atoms Color by Number",
-          "dateGraded": "2026-10-07",
-          "score": 3,
-          "possible": 3,
-          "percent": "100%"
         }
       ]
     },
@@ -274,7 +335,7 @@
       "graded": [
         {
           "class": "EXPLO 6-Computer Science",
-          "teacher": "Silzle, C",
+          "teacher": "",
           "assignment": "Sketchup House",
           "dateGraded": "2026-10-14",
           "score": 85,
@@ -320,7 +381,7 @@
         {
           "class": "Math 6 S1",
           "teacher": "Purcell, C",
-          "assignment": "Warm Up Quiz #6",
+          "assignment": "Warm Up Quiz #6 (Turned In)",
           "dateGraded": "2026-10-12",
           "score": 3,
           "possible": 5,
@@ -379,33 +440,6 @@
           "score": 5,
           "possible": 5,
           "percent": "100%"
-        },
-        {
-          "class": "Geography 6 S1",
-          "teacher": "Turner, S",
-          "assignment": "Map test",
-          "dateGraded": "2026-10-07",
-          "score": 7,
-          "possible": 9,
-          "percent": "77.77%"
-        },
-        {
-          "class": "Math 6 S1",
-          "teacher": "Purcell, C",
-          "assignment": "1st Quarter Summative Practice",
-          "dateGraded": "2026-10-07",
-          "score": 2,
-          "possible": 6,
-          "percent": "33.33%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Check In week 6 (Open Note)",
-          "dateGraded": "2026-10-07",
-          "score": 9,
-          "possible": 10,
-          "percent": "90%"
         }
       ]
     }
