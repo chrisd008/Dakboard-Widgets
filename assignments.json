@@ -92,19 +92,19 @@
           "points": 5
         },
         {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/6-10/8 Flowers for Algernon CR",
-          "dueDate": "2026-10-09",
-          "daysOverdue": 6,
-          "points": 10
-        },
-        {
           "class": "Spanish I S1",
           "teacher": "Charlton, K",
           "assignment": "Como Se Dice - Exit Ticket Wrap-Up Slide",
           "dueDate": "2026-10-09",
           "daysOverdue": 6,
+          "points": 10
+        },
+        {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "10/8-10/9 Charly Watching Question",
+          "dueDate": "2026-10-12",
+          "daysOverdue": 3,
           "points": 10
         },
         {
@@ -114,14 +114,6 @@
           "dueDate": "2026-10-12",
           "daysOverdue": 3,
           "points": 3
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/8-10/9 Charly Watching Question",
-          "dueDate": "2026-10-12",
-          "daysOverdue": 3,
-          "points": 10
         },
         {
           "class": "Art 8",
@@ -156,6 +148,15 @@
         }
       ],
       "graded": [
+        {
+          "class": "Honors English Lang Arts 8 S1",
+          "teacher": "Beeson, A",
+          "assignment": "10/6-10/8 Flowers for Algernon CR (Turned In)",
+          "dateGraded": "2026-10-15",
+          "score": null,
+          "possible": 10,
+          "percent": ""
+        },
         {
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
@@ -236,15 +237,6 @@
           "score": 10,
           "possible": 10,
           "percent": "100%"
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/6-10/8 Flowers for Algernon CR (Missing)",
-          "dateGraded": "2026-10-10",
-          "score": 0,
-          "possible": 10,
-          "percent": "0%"
         },
         {
           "class": "Physical Science S1",
@@ -331,7 +323,15 @@
     },
     "Zachary": {
       "missing": [],
-      "upcoming": [],
+      "upcoming": [
+        {
+          "class": "Earth Science 6 S1",
+          "teacher": "Crawford, M",
+          "assignment": "Plate Tectonics 1 Pager (Movie Poster)",
+          "dueDate": "2026-10-16",
+          "daysUntilDue": 1
+        }
+      ],
       "graded": [
         {
           "class": "EXPLO 6-Computer Science",
