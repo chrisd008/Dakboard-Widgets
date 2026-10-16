@@ -134,6 +134,24 @@
       ],
       "graded": [
         {
+          "class": "PE/Health 8 S1",
+          "teacher": "",
+          "assignment": "Week 7 Sportsmanship",
+          "dateGraded": "2026-10-16",
+          "score": 5,
+          "possible": 5,
+          "percent": "100%"
+        },
+        {
+          "class": "PE/Health 8 S1",
+          "teacher": "",
+          "assignment": "Week 7 Participation",
+          "dateGraded": "2026-10-16",
+          "score": 8,
+          "possible": 10,
+          "percent": "80%"
+        },
+        {
           "class": "Physical Science S1",
           "teacher": "Hinkebein, G",
           "assignment": "Quarter 1 TEST",
@@ -254,23 +272,35 @@
           "points": 5
         }
       ],
-      "upcoming": [
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Plate Tectonics 1 Pager (Movie Poster)",
-          "dueDate": "2026-10-16",
-          "daysUntilDue": 0
-        },
+      "upcoming": [],
+      "graded": [
         {
           "class": "Geography 6 S1",
           "teacher": "",
           "assignment": "Fusion Food Truck",
-          "dueDate": "2026-10-16",
-          "daysUntilDue": 0
-        }
-      ],
-      "graded": [
+          "dateGraded": "2026-10-16",
+          "score": 19,
+          "possible": 20,
+          "percent": "95%"
+        },
+        {
+          "class": "PE/Health 6 S1",
+          "teacher": "Oerkis, R",
+          "assignment": "Week 8",
+          "dateGraded": "2026-10-16",
+          "score": 15,
+          "possible": 15,
+          "percent": "100%"
+        },
+        {
+          "class": "Earth Science 6 S1",
+          "teacher": "Crawford, M",
+          "assignment": "Plate Tectonics 1 Pager (Movie Poster)",
+          "dateGraded": "2026-10-16",
+          "score": 11,
+          "possible": 10,
+          "percent": "110%"
+        },
         {
           "class": "Math 6 S1",
           "teacher": "",
