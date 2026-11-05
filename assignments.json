@@ -1,413 +1,557 @@
 {
-  "generated": "2026-10-16",
+  "generated": "2026-11-04",
+  "sources": {
+    "Cameron": [
+      "canvas",
+      "ic"
+    ],
+    "Zachary": [
+      "canvas",
+      "ic"
+    ]
+  },
   "students": {
     "Cameron": {
       "missing": [
         {
-          "class": "Physical Science S1",
-          "teacher": "Hinkebein, G",
-          "assignment": "Sink or Float Lab",
-          "dueDate": "2026-09-10",
-          "daysOverdue": 36,
-          "points": 10
+          "class": "Algebra I",
+          "teacher": "",
+          "assignment": "Chapter 3 Homework 1 (Pg. 7-8)",
+          "dueDate": "2026-10-27",
+          "daysOverdue": 8,
+          "points": 3,
+          "source": "ic",
+          "keys": [
+            "ic:3898863"
+          ]
         },
         {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "Massachusetts Colony reading w?s",
-          "dueDate": "2026-09-22",
-          "daysOverdue": 24,
-          "points": 9
+          "class": "Algebra I",
+          "teacher": "",
+          "assignment": "Chapter 3 Homework 2 (Pg. 12-13)",
+          "dueDate": "2026-10-28",
+          "daysOverdue": 7,
+          "points": 3,
+          "source": "ic",
+          "keys": [
+            "ic:3898865"
+          ]
         },
         {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/21-9/22 \"The Story-Teller\" Homework",
-          "dueDate": "2026-09-23",
-          "daysOverdue": 23,
-          "points": 10
+          "class": "Physical Science",
+          "teacher": "",
+          "assignment": "Study Island - Synthetic Materials",
+          "dueDate": "2026-10-30",
+          "daysOverdue": 5,
+          "points": 3,
+          "source": "ic",
+          "keys": [
+            "ic:3894856"
+          ]
         },
         {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "Pronombres",
-          "dueDate": "2026-09-24",
-          "daysOverdue": 22,
-          "points": 7
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "Hispanic Heritage Month Biografia",
-          "dueDate": "2026-09-25",
-          "daysOverdue": 21,
-          "points": 10
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "9/24-9/25 The Story-teller CR",
-          "dueDate": "2026-09-27",
-          "daysOverdue": 19,
-          "points": 10
-        },
-        {
-          "class": "Art 8",
-          "teacher": "Bundy, E",
-          "assignment": "Atmospheric Perspective",
-          "dueDate": "2026-09-28",
-          "daysOverdue": 18,
-          "points": 100
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "NE and Middle colonies notesheets",
-          "dueDate": "2026-09-29",
-          "daysOverdue": 17,
-          "points": 15
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 3(Pg. 22-23)",
-          "dueDate": "2026-10-02",
-          "daysOverdue": 14,
-          "points": 3
-        },
-        {
-          "class": "Physical Science S1",
-          "teacher": "Hinkebein, G",
-          "assignment": "Elements, Compounds, & Mixtures Color by Number",
-          "dueDate": "2026-10-02",
-          "daysOverdue": 14,
-          "points": 3
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "Edpuzzle | Hispanic Heritage Month",
-          "dueDate": "2026-10-05",
-          "daysOverdue": 11,
-          "points": 5
-        },
-        {
-          "class": "Algebra I S1",
-          "teacher": "Irwin, J",
-          "assignment": "Chapter 2 Homework 9 (Pg. 54-55)",
-          "dueDate": "2026-10-12",
-          "daysOverdue": 4,
-          "points": 3
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/8-10/9 Charly Watching Question",
-          "dueDate": "2026-10-12",
-          "daysOverdue": 4,
-          "points": 10
-        },
-        {
-          "class": "Art 8",
-          "teacher": "Bundy, E",
-          "assignment": "Cubism Character",
-          "dueDate": "2026-10-15",
-          "daysOverdue": 1,
-          "points": 100
+          "class": "Physical Science",
+          "teacher": "",
+          "assignment": "Synthetic vs Natural Materials Project",
+          "dueDate": "2026-11-02",
+          "daysOverdue": 2,
+          "points": 30,
+          "source": "ic",
+          "keys": [
+            "ic:3897474"
+          ]
         }
       ],
       "upcoming": [
         {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "DuoLingo: Week of 10/12 - 10/18",
-          "dueDate": "2026-10-18",
-          "daysUntilDue": 2
+          "id": 516721,
+          "class": "Honors English Lang Arts 8",
+          "teacher": "Alan Beeson",
+          "assignment": "11/5 F451 Assignment 2",
+          "dueDate": "2026-11-06",
+          "daysUntilDue": 2,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168650/discussion_topics/516721",
+          "source": "canvas",
+          "keys": [
+            "canvas:516721"
+          ]
         },
         {
-          "class": "Art 8",
-          "teacher": "Bundy, E",
-          "assignment": "Atmospheric Perspective",
-          "dueDate": "2026-10-28",
-          "daysUntilDue": 12
+          "id": 1610964,
+          "class": "Spanish I",
+          "teacher": "Kaitlyn Charlton",
+          "assignment": "DuoLingo: Week of 11/2 - 11/8",
+          "dueDate": "2026-11-08",
+          "daysUntilDue": 4,
+          "points": 8.0,
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610964",
+          "source": "canvas",
+          "keys": [
+            "canvas:1610964"
+          ]
+        },
+        {
+          "id": 1698758,
+          "class": "Honors English Lang Arts 8",
+          "teacher": "Alan Beeson",
+          "assignment": "11/2-11/6  First Vocab Word",
+          "dueDate": "2026-11-09",
+          "daysUntilDue": 5,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698758",
+          "source": "canvas",
+          "keys": [
+            "canvas:1698758"
+          ]
+        },
+        {
+          "id": 1698759,
+          "class": "Honors English Lang Arts 8",
+          "teacher": "Alan Beeson",
+          "assignment": "11/6 F451 Assignment 3",
+          "dueDate": "2026-11-09",
+          "daysUntilDue": 5,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698759",
+          "source": "canvas",
+          "keys": [
+            "canvas:1698759"
+          ]
+        },
+        {
+          "class": "Physical Science",
+          "teacher": "",
+          "assignment": "Modeling Conservation WS",
+          "dueDate": "2026-11-09",
+          "daysUntilDue": 5,
+          "points": 3,
+          "source": "ic",
+          "keys": [
+            "ic:3903206"
+          ]
         }
       ],
       "graded": [
         {
-          "class": "PE/Health 8 S1",
+          "class": "Spanish I",
           "teacher": "",
-          "assignment": "Week 7 Sportsmanship",
-          "dateGraded": "2026-10-16",
-          "score": 5,
+          "assignment": "DuoLingo: Week of 10/26 - 11/1",
+          "dateGraded": "2026-11-04",
+          "score": 4.0,
+          "possible": 10,
+          "percent": "40%",
+          "source": "both",
+          "keys": [
+            "canvas:1610944",
+            "ic:3899349"
+          ],
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610944"
+        },
+        {
+          "id": 1698755,
+          "class": "Honors English Lang Arts 8",
+          "teacher": "Alan Beeson",
+          "assignment": "11/4 Fahrenheit 451 Assignment 1 ",
+          "dueDate": "2026-11-04",
+          "dateGraded": "2026-11-04",
+          "score": 8.0,
+          "possible": 15.0,
+          "percent": "53%",
+          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698755",
+          "source": "canvas",
+          "keys": [
+            "canvas:1698755"
+          ]
+        },
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Week 1 Participation",
+          "dateGraded": "2026-11-02",
+          "score": 9.0,
+          "possible": 10,
+          "percent": "90%",
+          "source": "ic",
+          "keys": [
+            "ic:3900368"
+          ]
+        },
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Week 1 Sportsmanship",
+          "dateGraded": "2026-11-02",
+          "score": 5.0,
           "possible": 5,
-          "percent": "100%"
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3900374"
+          ]
         },
         {
-          "class": "PE/Health 8 S1",
+          "class": "Honors English Lang Arts 8",
           "teacher": "",
-          "assignment": "Week 7 Participation",
-          "dateGraded": "2026-10-16",
-          "score": 8,
-          "possible": 10,
-          "percent": "80%"
+          "assignment": "10/27 \"The Veldt\" Read, Annotate and Answer Qs",
+          "dateGraded": "2026-11-01",
+          "score": 6.0,
+          "possible": 6,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3903026"
+          ]
         },
         {
-          "class": "Physical Science S1",
-          "teacher": "Hinkebein, G",
-          "assignment": "Quarter 1 TEST",
-          "dateGraded": "2026-10-16",
-          "score": 73,
-          "possible": 100,
-          "percent": "73%"
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "Como Se Dice - Exit Ticket Wrap-Up Slide",
-          "dateGraded": "2026-10-16",
-          "score": 10,
-          "possible": 10,
-          "percent": "100%"
-        },
-        {
-          "class": "Honors English Lang Arts 8 S1",
-          "teacher": "Beeson, A",
-          "assignment": "10/6-10/8 Flowers for Algernon CR",
-          "dateGraded": "2026-10-15",
-          "score": 8,
-          "possible": 10,
-          "percent": "80%"
-        },
-        {
-          "class": "Physical Science S1",
-          "teacher": "Hinkebein, G",
-          "assignment": "Element Advertisement Project",
-          "dateGraded": "2026-10-14",
-          "score": 48,
-          "possible": 60,
-          "percent": "80%"
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "Como Se Dice - Nuggets 1 and 2",
-          "dateGraded": "2026-10-14",
-          "score": 12,
-          "possible": 12,
-          "percent": "100%"
-        },
-        {
-          "class": "PE/Health 8 S1",
+          "class": "US History 8",
           "teacher": "",
-          "assignment": "Week 6 Sportsmanship",
-          "dateGraded": "2026-10-13",
-          "score": 5,
-          "possible": 5,
-          "percent": "100%"
-        },
-        {
-          "class": "PE/Health 8 S1",
-          "teacher": "",
-          "assignment": "Week #6 Participation",
-          "dateGraded": "2026-10-13",
-          "score": 8,
-          "possible": 10,
-          "percent": "80%"
-        },
-        {
-          "class": "Spanish I S1",
-          "teacher": "Charlton, K",
-          "assignment": "DuoLingo: Week of 10/5 - 10/11",
-          "dateGraded": "2026-10-13",
-          "score": 7,
-          "possible": 10,
-          "percent": "70%"
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "BENCHMARK",
-          "dateGraded": "2026-10-12",
-          "score": 10,
-          "possible": 10,
-          "percent": "100%"
-        },
-        {
-          "class": "Physical Science S1",
-          "teacher": "Hinkebein, G",
-          "assignment": "Atomic Structure Quiz",
-          "dateGraded": "2026-10-10",
-          "score": 19,
-          "possible": 25,
-          "percent": "76%"
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "QUIZSouth and Gov colonial w Map",
-          "dateGraded": "2026-10-09",
-          "score": 29,
-          "possible": 28,
-          "percent": "103.57%"
-        },
-        {
-          "class": "US History 8 S1",
-          "teacher": "Olwig, M",
-          "assignment": "VOCAB Colonial Gov't",
-          "dateGraded": "2026-10-09",
-          "score": 5,
-          "possible": 10,
-          "percent": "50%"
+          "assignment": "Timeline? Am Revolution",
+          "dateGraded": "2026-10-28",
+          "score": 9.0,
+          "possible": 9,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3898654"
+          ]
         }
       ]
     },
     "Zachary": {
       "missing": [
         {
-          "class": "Math 6 S1",
-          "teacher": "",
-          "assignment": "Edpuzzle & Assignment Mean, Median, Mode, & Range",
-          "dueDate": "2026-10-09",
-          "daysOverdue": 7,
-          "points": 5
+          "id": 1693502,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Student information Survey",
+          "dueDate": "2026-10-30",
+          "daysOverdue": 5,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693502",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693502"
+          ]
         }
       ],
-      "upcoming": [],
+      "upcoming": [
+        {
+          "id": 1693413,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Chapter 1 review: Technology (old RED book)",
+          "dueDate": "2026-11-04",
+          "daysUntilDue": 0,
+          "points": 21.0,
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693413",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693413"
+          ]
+        },
+        {
+          "id": 1693469,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Measurement Blooket (submit screenshot)",
+          "dueDate": "2026-11-05",
+          "daysUntilDue": 1,
+          "points": 7.0,
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693469",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693469"
+          ]
+        },
+        {
+          "id": 1700045,
+          "class": "Math 6",
+          "teacher": "Mallory Douglas",
+          "assignment": "\"Chase The Rainbow\" (FDF Conversion Cards)",
+          "dueDate": "2026-11-05",
+          "daysUntilDue": 1,
+          "points": 5.0,
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1700045",
+          "source": "canvas",
+          "keys": [
+            "canvas:1700045"
+          ]
+        },
+        {
+          "id": 1699034,
+          "class": "Math 6",
+          "teacher": "Mallory Douglas",
+          "assignment": "Warm Up Quiz #9",
+          "dueDate": "2026-11-06",
+          "daysUntilDue": 2,
+          "points": 5.0,
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1699034",
+          "source": "canvas",
+          "keys": [
+            "canvas:1699034"
+          ]
+        },
+        {
+          "id": 1699033,
+          "class": "Math 6",
+          "teacher": "Mallory Douglas",
+          "assignment": "I-Ready Week of 11/2",
+          "dueDate": "2026-11-08",
+          "daysUntilDue": 4,
+          "points": 2.0,
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1699033",
+          "source": "canvas",
+          "keys": [
+            "canvas:1699033"
+          ]
+        },
+        {
+          "id": 1689556,
+          "class": "Explo 6-Design & Modeling PLTW",
+          "teacher": "Christopher Silzle",
+          "assignment": "Introduction Slides",
+          "dueDate": "2026-11-10",
+          "daysUntilDue": 6,
+          "points": 50.0,
+          "url": "https://fhsd.instructure.com/courses/168710/assignments/1689556",
+          "source": "canvas",
+          "keys": [
+            "canvas:1689556"
+          ]
+        }
+      ],
       "graded": [
         {
-          "class": "Geography 6 S1",
+          "class": "Math 6",
           "teacher": "",
-          "assignment": "Fusion Food Truck",
-          "dateGraded": "2026-10-16",
-          "score": 19,
-          "possible": 20,
-          "percent": "95%"
+          "assignment": "Riddle Page--\"Flat Tire\" (FDP Conversion)",
+          "dateGraded": "2026-11-04",
+          "score": 4.0,
+          "possible": 4,
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1699035",
+            "ic:3906367"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1699035"
         },
         {
-          "class": "PE/Health 6 S1",
-          "teacher": "Oerkis, R",
-          "assignment": "Week 8",
-          "dateGraded": "2026-10-16",
-          "score": 15,
-          "possible": 15,
-          "percent": "100%"
+          "id": 1697350,
+          "class": "Math 6",
+          "teacher": "Mallory Douglas",
+          "assignment": "Halloween Coordinate Graphing",
+          "dueDate": "2026-11-02",
+          "dateGraded": "2026-11-04",
+          "score": 0.0,
+          "possible": 0,
+          "percent": "",
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1697350",
+          "source": "canvas",
+          "keys": [
+            "canvas:1697350"
+          ]
         },
         {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Plate Tectonics 1 Pager (Movie Poster)",
-          "dateGraded": "2026-10-16",
-          "score": 11,
-          "possible": 10,
-          "percent": "110%"
-        },
-        {
-          "class": "Math 6 S1",
+          "class": "Geography 6",
           "teacher": "",
-          "assignment": "Riddle Page-- Equivalent Fractions & Lowest Terms",
-          "dateGraded": "2026-10-16",
-          "score": 2,
-          "possible": 2,
-          "percent": "100%"
-        },
-        {
-          "class": "EXPLO 6-Computer Science",
-          "teacher": "",
-          "assignment": "Sketchup House",
-          "dateGraded": "2026-10-14",
-          "score": 85,
-          "possible": 100,
-          "percent": "85%"
-        },
-        {
-          "class": "PE/Health 6 S1",
-          "teacher": "Oerkis, R",
-          "assignment": "Week 7",
-          "dateGraded": "2026-10-14",
-          "score": 15,
-          "possible": 15,
-          "percent": "100%"
-        },
-        {
-          "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "Bunch, J",
-          "assignment": "Plan My Introducing Myself Song",
-          "dateGraded": "2026-10-13",
-          "score": 20,
-          "possible": 20,
-          "percent": "100%"
-        },
-        {
-          "class": "EXPLO 6 -Music Prod & Tech",
-          "teacher": "Bunch, J",
-          "assignment": "Introducing Yourself Through Music",
-          "dateGraded": "2026-10-13",
-          "score": 94,
-          "possible": 100,
-          "percent": "94%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Weekly Skills 7 (Plate Tectonics)",
-          "dateGraded": "2026-10-12",
-          "score": 4,
+          "assignment": "The Spooky States of America",
+          "dateGraded": "2026-11-02",
+          "score": 3.0,
           "possible": 3,
-          "percent": "133.33%"
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3903562"
+          ]
         },
         {
-          "class": "Math 6 S1",
+          "class": "English Lang Arts 6",
           "teacher": "",
-          "assignment": "Warm Up Quiz #6",
-          "dateGraded": "2026-10-12",
-          "score": 3,
+          "assignment": "Theme Practice ",
+          "dateGraded": "2026-11-02",
+          "score": 5.0,
+          "possible": 9,
+          "percent": "56%",
+          "source": "ic",
+          "keys": [
+            "ic:3903809"
+          ]
+        },
+        {
+          "class": "Earth Science 6",
+          "teacher": "",
+          "assignment": "Weekly Skills#1 Study Island (Thermal Energy)",
+          "dateGraded": "2026-11-02",
+          "score": 4.0,
+          "possible": 3,
+          "percent": "133%",
+          "source": "ic",
+          "keys": [
+            "ic:3903648"
+          ]
+        },
+        {
+          "class": "Earth Science 6",
+          "teacher": "",
+          "assignment": "Rock Cycle Online Lab",
+          "dateGraded": "2026-11-02",
+          "score": 3.0,
+          "possible": 3,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3903654"
+          ]
+        },
+        {
+          "class": "PE/Health 6",
+          "teacher": "",
+          "assignment": "Week 1 Q2",
+          "dateGraded": "2026-11-02",
+          "score": 15.0,
+          "possible": 15,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3903701"
+          ]
+        },
+        {
+          "class": "Geography 6",
+          "teacher": "",
+          "assignment": "Current Event ",
+          "dateGraded": "2026-11-02",
+          "score": 10.0,
+          "possible": 10,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3899850"
+          ]
+        },
+        {
+          "class": "English Lang Arts 6",
+          "teacher": "",
+          "assignment": "Seventh Grade",
+          "dateGraded": "2026-11-02",
+          "score": 5.0,
           "possible": 5,
-          "percent": "60%"
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3903695"
+          ]
         },
         {
-          "class": "Math 6 S1",
+          "class": "Math 6",
           "teacher": "",
-          "assignment": "I-Ready Wk of 10/5",
-          "dateGraded": "2026-10-12",
-          "score": 2,
+          "assignment": "I-Ready Wk of 10/26",
+          "dateGraded": "2026-11-02",
+          "score": 2.0,
           "possible": 2,
-          "percent": "100%"
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1697344",
+            "ic:3904196"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1697344"
         },
         {
-          "class": "English Lang Arts 6 S1",
+          "id": 1693385,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "6 I.T. Measuring Pre-Test",
+          "dueDate": "2026-11-03",
+          "dateGraded": "2026-11-02",
+          "score": 10.0,
+          "possible": 10.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693385",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693385"
+          ]
+        },
+        {
+          "id": 1693421,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Chapter 6: Measuring and Marking (Red book)",
+          "dueDate": "2026-11-02",
+          "dateGraded": "2026-11-02",
+          "score": 14.0,
+          "possible": 15.0,
+          "percent": "93%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693421",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693421"
+          ]
+        },
+        {
+          "id": 1693450,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Edpuzzle | Walnut shell and Resin project",
+          "dueDate": "2026-10-29",
+          "dateGraded": "2026-11-02",
+          "score": 10.0,
+          "possible": 10.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693450",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693450"
+          ]
+        },
+        {
+          "class": "Math 6",
           "teacher": "",
-          "assignment": "Dialogue Worksheet",
-          "dateGraded": "2026-10-09",
-          "score": 10,
-          "possible": 10,
-          "percent": "100%"
+          "assignment": "XC--Percentages 3&4 (Converting to #/100 and %)",
+          "dateGraded": "2026-10-31",
+          "score": 1.0,
+          "possible": 0,
+          "percent": "",
+          "source": "both",
+          "keys": [
+            "canvas:1695825",
+            "ic:3902177"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1695825"
         },
         {
-          "class": "English Lang Arts 6 S1",
+          "id": 1693467,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Intro to Woodworking: Pre-project reflection",
+          "dueDate": "2026-10-29",
+          "dateGraded": "2026-10-30",
+          "score": 8.0,
+          "possible": 8.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693467",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693467"
+          ]
+        },
+        {
+          "class": "Math 6",
           "teacher": "",
-          "assignment": "Oranges Worksheet",
-          "dateGraded": "2026-10-09",
-          "score": 10,
-          "possible": 10,
-          "percent": "100%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "Check In 7 (Open Note) Plate Tectonics",
-          "dateGraded": "2026-10-09",
-          "score": 9,
-          "possible": 10,
-          "percent": "90%"
-        },
-        {
-          "class": "Earth Science 6 S1",
-          "teacher": "Crawford, M",
-          "assignment": "1 Qtr CSA",
-          "dateGraded": "2026-10-09",
-          "score": 5,
-          "possible": 5,
-          "percent": "100%"
+          "assignment": "Percentages 1 & 2 (Converting to #/100 and %)",
+          "dateGraded": "2026-10-29",
+          "score": 2.0,
+          "possible": 2,
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1695825",
+            "ic:3900729"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1695825"
         }
       ]
     }
