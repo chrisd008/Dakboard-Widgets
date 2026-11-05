@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04",
+  "generated": "2026-11-05",
   "sources": {
     "Cameron": [
       "canvas",
@@ -18,7 +18,7 @@
           "teacher": "",
           "assignment": "Chapter 3 Homework 1 (Pg. 7-8)",
           "dueDate": "2026-10-27",
-          "daysOverdue": 8,
+          "daysOverdue": 9,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -30,7 +30,7 @@
           "teacher": "",
           "assignment": "Chapter 3 Homework 2 (Pg. 12-13)",
           "dueDate": "2026-10-28",
-          "daysOverdue": 7,
+          "daysOverdue": 8,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -42,7 +42,7 @@
           "teacher": "",
           "assignment": "Study Island - Synthetic Materials",
           "dueDate": "2026-10-30",
-          "daysOverdue": 5,
+          "daysOverdue": 6,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -54,7 +54,7 @@
           "teacher": "",
           "assignment": "Synthetic vs Natural Materials Project",
           "dueDate": "2026-11-02",
-          "daysOverdue": 2,
+          "daysOverdue": 3,
           "points": 30,
           "source": "ic",
           "keys": [
@@ -69,7 +69,7 @@
           "teacher": "Alan Beeson",
           "assignment": "11/5 F451 Assignment 2",
           "dueDate": "2026-11-06",
-          "daysUntilDue": 2,
+          "daysUntilDue": 1,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168650/discussion_topics/516721",
           "source": "canvas",
@@ -83,7 +83,7 @@
           "teacher": "Kaitlyn Charlton",
           "assignment": "DuoLingo: Week of 11/2 - 11/8",
           "dueDate": "2026-11-08",
-          "daysUntilDue": 4,
+          "daysUntilDue": 3,
           "points": 8.0,
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1610964",
           "source": "canvas",
@@ -97,7 +97,7 @@
           "teacher": "Alan Beeson",
           "assignment": "11/2-11/6  First Vocab Word",
           "dueDate": "2026-11-09",
-          "daysUntilDue": 5,
+          "daysUntilDue": 4,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168650/assignments/1698758",
           "source": "canvas",
@@ -111,7 +111,7 @@
           "teacher": "Alan Beeson",
           "assignment": "11/6 F451 Assignment 3",
           "dueDate": "2026-11-09",
-          "daysUntilDue": 5,
+          "daysUntilDue": 4,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168650/assignments/1698759",
           "source": "canvas",
@@ -124,7 +124,7 @@
           "teacher": "",
           "assignment": "Modeling Conservation WS",
           "dueDate": "2026-11-09",
-          "daysUntilDue": 5,
+          "daysUntilDue": 4,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -202,19 +202,6 @@
           "keys": [
             "ic:3903026"
           ]
-        },
-        {
-          "class": "US History 8",
-          "teacher": "",
-          "assignment": "Timeline? Am Revolution",
-          "dateGraded": "2026-10-28",
-          "score": 9.0,
-          "possible": 9,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3898654"
-          ]
         }
       ]
     },
@@ -226,7 +213,7 @@
           "teacher": "Dustin Nuckolls",
           "assignment": "Student information Survey",
           "dueDate": "2026-10-30",
-          "daysOverdue": 5,
+          "daysOverdue": 6,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168655/assignments/1693502",
           "source": "canvas",
@@ -237,40 +224,12 @@
       ],
       "upcoming": [
         {
-          "id": 1693413,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Chapter 1 review: Technology (old RED book)",
-          "dueDate": "2026-11-04",
-          "daysUntilDue": 0,
-          "points": 21.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693413",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693413"
-          ]
-        },
-        {
-          "id": 1693469,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Measurement Blooket (submit screenshot)",
-          "dueDate": "2026-11-05",
-          "daysUntilDue": 1,
-          "points": 7.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693469",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693469"
-          ]
-        },
-        {
           "id": 1700045,
           "class": "Math 6",
           "teacher": "Mallory Douglas",
           "assignment": "\"Chase The Rainbow\" (FDF Conversion Cards)",
           "dueDate": "2026-11-05",
-          "daysUntilDue": 1,
+          "daysUntilDue": 0,
           "points": 5.0,
           "url": "https://fhsd.instructure.com/courses/168890/assignments/1700045",
           "source": "canvas",
@@ -284,7 +243,7 @@
           "teacher": "Mallory Douglas",
           "assignment": "Warm Up Quiz #9",
           "dueDate": "2026-11-06",
-          "daysUntilDue": 2,
+          "daysUntilDue": 1,
           "points": 5.0,
           "url": "https://fhsd.instructure.com/courses/168890/assignments/1699034",
           "source": "canvas",
@@ -298,7 +257,7 @@
           "teacher": "Mallory Douglas",
           "assignment": "I-Ready Week of 11/2",
           "dueDate": "2026-11-08",
-          "daysUntilDue": 4,
+          "daysUntilDue": 3,
           "points": 2.0,
           "url": "https://fhsd.instructure.com/courses/168890/assignments/1699033",
           "source": "canvas",
@@ -312,7 +271,7 @@
           "teacher": "Christopher Silzle",
           "assignment": "Introduction Slides",
           "dueDate": "2026-11-10",
-          "daysUntilDue": 6,
+          "daysUntilDue": 5,
           "points": 50.0,
           "url": "https://fhsd.instructure.com/courses/168710/assignments/1689556",
           "source": "canvas",
