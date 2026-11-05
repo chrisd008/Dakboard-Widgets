@@ -282,6 +282,70 @@
       ],
       "graded": [
         {
+          "id": 1693502,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Student information Survey",
+          "dueDate": "2026-10-30",
+          "dateGraded": "2026-11-05",
+          "score": 10.0,
+          "possible": 10.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693502",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693502"
+          ]
+        },
+        {
+          "id": 1693458,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Week 1 grade check (submit screenshot)",
+          "dueDate": "2026-10-30",
+          "dateGraded": "2026-11-05",
+          "score": 10.0,
+          "possible": 10.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693458",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693458"
+          ]
+        },
+        {
+          "id": 1697273,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Measurement Intro Blooket 1 (SUBMIT SCREENSHOT)",
+          "dueDate": "2026-10-29",
+          "dateGraded": "2026-11-05",
+          "score": 10.0,
+          "possible": 10.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1697273",
+          "source": "canvas",
+          "keys": [
+            "canvas:1697273"
+          ]
+        },
+        {
+          "id": 1693469,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Measurement Blooket (submit screenshot)",
+          "dueDate": "2026-11-05",
+          "dateGraded": "2026-11-05",
+          "score": 7.0,
+          "possible": 7.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693469",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693469"
+          ]
+        },
+        {
           "class": "Math 6",
           "teacher": "",
           "assignment": "Riddle Page--\"Flat Tire\" (FDP Conversion)",
