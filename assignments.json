@@ -144,20 +144,6 @@
           ]
         },
         {
-          "id": 1611010,
-          "class": "Spanish I",
-          "teacher": "Kaitlyn Charlton",
-          "assignment": "Edpuzzle | Spanish alphabet",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 3,
-          "points": 5.0,
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1611010",
-          "source": "canvas",
-          "keys": [
-            "canvas:1611010"
-          ]
-        },
-        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Modeling Conservation WS",
@@ -168,9 +154,49 @@
           "keys": [
             "ic:3903206"
           ]
+        },
+        {
+          "id": 1611010,
+          "class": "Spanish I",
+          "teacher": "Kaitlyn Charlton",
+          "assignment": "Edpuzzle | Spanish alphabet",
+          "dueDate": "2026-11-10",
+          "daysUntilDue": 4,
+          "points": 5.0,
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1611010",
+          "source": "canvas",
+          "keys": [
+            "canvas:1611010"
+          ]
         }
       ],
       "graded": [
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Week 2 Participation",
+          "dateGraded": "2026-11-06",
+          "score": 5.0,
+          "possible": 8,
+          "percent": "62%",
+          "source": "ic",
+          "keys": [
+            "ic:3909689"
+          ]
+        },
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Week 2 Sportsmanship",
+          "dateGraded": "2026-11-06",
+          "score": 3.0,
+          "possible": 4,
+          "percent": "75%",
+          "source": "ic",
+          "keys": [
+            "ic:3909700"
+          ]
+        },
         {
           "id": 1698063,
           "class": "Physical Science",
