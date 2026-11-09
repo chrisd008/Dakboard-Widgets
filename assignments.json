@@ -422,6 +422,18 @@
           ]
         },
         {
+          "class": "Geography 6",
+          "teacher": "",
+          "assignment": "Central America/Caribbean Travel Project",
+          "dueDate": "2026-11-09",
+          "daysUntilDue": 0,
+          "points": 20,
+          "source": "ic",
+          "keys": [
+            "ic:3911710"
+          ]
+        },
+        {
           "id": 1693418,
           "class": "Industrial Tech 6",
           "teacher": "Dustin Nuckolls",
@@ -762,12 +774,10 @@
           "score": 2.0,
           "possible": 2,
           "percent": "100%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1697344",
             "ic:3904196"
-          ],
-          "url": "https://fhsd.instructure.com/courses/168890/assignments/1697344"
+          ]
         },
         {
           "id": 1693385,
