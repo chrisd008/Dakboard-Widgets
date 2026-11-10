@@ -98,6 +98,32 @@
           ]
         },
         {
+          "class": "Honors English Lang Arts 8",
+          "teacher": "",
+          "assignment": "11/2-11/6 First Vocab Word",
+          "dueDate": "2026-11-06",
+          "daysOverdue": 4,
+          "points": 10,
+          "source": "ic",
+          "keys": [
+            "ic:3912046"
+          ]
+        },
+        {
+          "class": "Honors English Lang Arts 8",
+          "teacher": "",
+          "assignment": "11/6 F451 Assignment 3",
+          "dueDate": "2026-11-09",
+          "daysOverdue": 1,
+          "points": 10,
+          "source": "both",
+          "keys": [
+            "canvas:1700976",
+            "ic:3912043"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168650/assignments/1700976"
+        },
+        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Modeling Conservation WS",
@@ -123,21 +149,6 @@
           "source": "canvas",
           "keys": [
             "canvas:1611010"
-          ]
-        },
-        {
-          "id": 1700976,
-          "class": "Honors English Lang Arts 8",
-          "teacher": "Alan Beeson",
-          "assignment": "11/9-10 F451 Assignment 4",
-          "dueDate": "2026-11-11",
-          "daysUntilDue": 1,
-          "points": 10.0,
-          "url": "https://fhsd.instructure.com/courses/168650/assignments/1700976",
-          "source": "both",
-          "keys": [
-            "canvas:1700976",
-            "ic:3912043"
           ]
         },
         {
@@ -240,6 +251,21 @@
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1610930"
         },
         {
+          "class": "Honors English Lang Arts 8",
+          "teacher": "",
+          "assignment": "11/4 F451 Assignment 1",
+          "dateGraded": "2026-11-10",
+          "score": 8.0,
+          "possible": 15,
+          "percent": "53%",
+          "source": "both",
+          "keys": [
+            "canvas:1698755",
+            "ic:3912037"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698755"
+        },
+        {
           "id": 1691502,
           "class": "Physical Science",
           "teacher": "Grace Hinkebein",
@@ -321,27 +347,9 @@
           "score": 4.0,
           "possible": 10,
           "percent": "40%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1610944",
             "ic:3899349"
-          ],
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610944"
-        },
-        {
-          "id": 1698755,
-          "class": "Honors English Lang Arts 8",
-          "teacher": "Alan Beeson",
-          "assignment": "11/4 Fahrenheit 451 Assignment 1 ",
-          "dueDate": "2026-11-04",
-          "dateGraded": "2026-11-04",
-          "score": 8.0,
-          "possible": 15.0,
-          "percent": "53%",
-          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698755",
-          "source": "canvas",
-          "keys": [
-            "canvas:1698755"
           ]
         }
       ]
