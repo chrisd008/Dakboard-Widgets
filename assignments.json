@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "sources": {
     "Cameron": [
       "canvas",
@@ -18,7 +18,7 @@
           "teacher": "",
           "assignment": "Chapter 3 Homework 1 (Pg. 7-8)",
           "dueDate": "2026-10-27",
-          "daysOverdue": 13,
+          "daysOverdue": 14,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -30,7 +30,7 @@
           "teacher": "",
           "assignment": "Chapter 3 Homework 2 (Pg. 12-13)",
           "dueDate": "2026-10-28",
-          "daysOverdue": 12,
+          "daysOverdue": 13,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -42,7 +42,7 @@
           "teacher": "",
           "assignment": "Practice with Gustar + Infinitive",
           "dueDate": "2026-10-28",
-          "daysOverdue": 12,
+          "daysOverdue": 13,
           "points": 30,
           "source": "ic",
           "keys": [
@@ -50,11 +50,23 @@
           ]
         },
         {
+          "class": "Honors English Lang Arts 8",
+          "teacher": "",
+          "assignment": "10/28-10/29 \"The Veldt\" CR",
+          "dueDate": "2026-10-30",
+          "daysOverdue": 11,
+          "points": 10,
+          "source": "ic",
+          "keys": [
+            "ic:3903023"
+          ]
+        },
+        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Study Island - Synthetic Materials",
           "dueDate": "2026-10-30",
-          "daysOverdue": 10,
+          "daysOverdue": 11,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -62,25 +74,11 @@
           ]
         },
         {
-          "class": "Spanish I",
-          "teacher": "",
-          "assignment": "Dia de Los Muertos Infographic",
-          "dueDate": "2026-11-02",
-          "daysOverdue": 7,
-          "points": 10,
-          "source": "both",
-          "keys": [
-            "canvas:1610930",
-            "ic:3904811"
-          ],
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610930"
-        },
-        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Synthetic vs Natural Materials Project",
           "dueDate": "2026-11-02",
-          "daysOverdue": 7,
+          "daysOverdue": 8,
           "points": 30,
           "source": "ic",
           "keys": [
@@ -92,7 +90,7 @@
           "teacher": "",
           "assignment": "Chemical Reactions Lab Report",
           "dueDate": "2026-11-05",
-          "daysOverdue": 4,
+          "daysOverdue": 5,
           "points": 18,
           "source": "ic",
           "keys": [
@@ -104,7 +102,7 @@
           "teacher": "",
           "assignment": "Modeling Conservation WS",
           "dueDate": "2026-11-09",
-          "daysOverdue": 0,
+          "daysOverdue": 1,
           "points": 3,
           "source": "ic",
           "keys": [
@@ -114,40 +112,12 @@
       ],
       "upcoming": [
         {
-          "id": 1698758,
-          "class": "Honors English Lang Arts 8",
-          "teacher": "Alan Beeson",
-          "assignment": "11/2-11/6  First Vocab Word",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 0,
-          "points": 10.0,
-          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698758",
-          "source": "canvas",
-          "keys": [
-            "canvas:1698758"
-          ]
-        },
-        {
-          "id": 1698759,
-          "class": "Honors English Lang Arts 8",
-          "teacher": "Alan Beeson",
-          "assignment": "11/6 F451 Assignment 3",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 0,
-          "points": 10.0,
-          "url": "https://fhsd.instructure.com/courses/168650/assignments/1698759",
-          "source": "canvas",
-          "keys": [
-            "canvas:1698759"
-          ]
-        },
-        {
           "id": 1611010,
           "class": "Spanish I",
           "teacher": "Kaitlyn Charlton",
           "assignment": "Edpuzzle | Spanish alphabet",
           "dueDate": "2026-11-10",
-          "daysUntilDue": 1,
+          "daysUntilDue": 0,
           "points": 5.0,
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1611010",
           "source": "canvas",
@@ -161,12 +131,41 @@
           "teacher": "Alan Beeson",
           "assignment": "11/9-10 F451 Assignment 4",
           "dueDate": "2026-11-11",
-          "daysUntilDue": 2,
+          "daysUntilDue": 1,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168650/assignments/1700976",
+          "source": "both",
+          "keys": [
+            "canvas:1700976",
+            "ic:3912043"
+          ]
+        },
+        {
+          "id": 1701436,
+          "class": "Honors English Lang Arts 8",
+          "teacher": "Alan Beeson",
+          "assignment": "11/10 Assignment 4 (revised)",
+          "dueDate": "2026-11-11",
+          "daysUntilDue": 1,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168650/assignments/1701436",
           "source": "canvas",
           "keys": [
-            "canvas:1700976"
+            "canvas:1701436"
+          ]
+        },
+        {
+          "id": 1610861,
+          "class": "Spanish I",
+          "teacher": "Kaitlyn Charlton",
+          "assignment": "Alfabeto Practica 1",
+          "dueDate": "2026-11-11",
+          "daysUntilDue": 1,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610861",
+          "source": "canvas",
+          "keys": [
+            "canvas:1610861"
           ]
         },
         {
@@ -175,7 +174,7 @@
           "teacher": "Alan Beeson",
           "assignment": "11/9-11/12 Second Vocab Word",
           "dueDate": "2026-11-13",
-          "daysUntilDue": 4,
+          "daysUntilDue": 3,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168650/assignments/1698762",
           "source": "canvas",
@@ -189,7 +188,7 @@
           "teacher": "Alan Beeson",
           "assignment": "11/11-11/12 F451 Assignment 5",
           "dueDate": "2026-11-13",
-          "daysUntilDue": 4,
+          "daysUntilDue": 3,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168650/assignments/1698763",
           "source": "canvas",
@@ -203,16 +202,43 @@
           "teacher": "Kaitlyn Charlton",
           "assignment": "DuoLingo: Week of 11/9 - 11/15",
           "dueDate": "2026-11-15",
-          "daysUntilDue": 6,
+          "daysUntilDue": 5,
           "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1610951",
           "source": "canvas",
           "keys": [
             "canvas:1610951"
           ]
+        },
+        {
+          "class": "Physical Science",
+          "teacher": "",
+          "assignment": "Balancing Equations CBN",
+          "dueDate": "2026-11-16",
+          "daysUntilDue": 6,
+          "points": 3,
+          "source": "ic",
+          "keys": [
+            "ic:3912370"
+          ]
         }
       ],
       "graded": [
+        {
+          "class": "Spanish I",
+          "teacher": "",
+          "assignment": "Dia de Los Muertos Infographic",
+          "dateGraded": "2026-11-10",
+          "score": 8.0,
+          "possible": 10,
+          "percent": "80%",
+          "source": "both",
+          "keys": [
+            "canvas:1610930",
+            "ic:3904811"
+          ],
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610930"
+        },
         {
           "id": 1691502,
           "class": "Physical Science",
@@ -243,22 +269,6 @@
           "source": "canvas",
           "keys": [
             "canvas:1610964"
-          ]
-        },
-        {
-          "id": 1610930,
-          "class": "Spanish I",
-          "teacher": "Kaitlyn Charlton",
-          "assignment": "Dia de Los Muertos Infographic",
-          "dueDate": "2026-11-02",
-          "dateGraded": "2026-11-09",
-          "score": 8.0,
-          "possible": 10.0,
-          "percent": "80%",
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610930",
-          "source": "canvas",
-          "keys": [
-            "canvas:1610930"
           ]
         },
         {
@@ -333,32 +343,6 @@
           "keys": [
             "canvas:1698755"
           ]
-        },
-        {
-          "class": "PE/Health 8",
-          "teacher": "",
-          "assignment": "Week 1 Participation",
-          "dateGraded": "2026-11-02",
-          "score": 9.0,
-          "possible": 10,
-          "percent": "90%",
-          "source": "ic",
-          "keys": [
-            "ic:3900368"
-          ]
-        },
-        {
-          "class": "PE/Health 8",
-          "teacher": "",
-          "assignment": "Week 1 Sportsmanship",
-          "dateGraded": "2026-11-02",
-          "score": 5.0,
-          "possible": 5,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3900374"
-          ]
         }
       ]
     },
@@ -366,85 +350,43 @@
       "missing": [],
       "upcoming": [
         {
-          "id": 1693386,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "6 I.T. Measuring Test",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 0,
-          "points": 30.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693386",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693386"
-          ]
-        },
-        {
-          "id": 1699879,
           "class": "English Lang Arts 6",
-          "teacher": "Laurie Wilmoth",
-          "assignment": "First Thoughts: The World's Best Blind Mountain Biker",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 0,
-          "points": 5.0,
-          "url": "https://fhsd.instructure.com/courses/168676/assignments/1699879",
-          "source": "canvas",
-          "keys": [
-            "canvas:1699879"
-          ]
-        },
-        {
-          "id": 1699880,
-          "class": "English Lang Arts 6",
-          "teacher": "Laurie Wilmoth",
-          "assignment": "Comprehension: The World's Best Blind Mountain Biker",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 0,
-          "points": 5.0,
-          "url": "https://fhsd.instructure.com/courses/168676/assignments/1699880",
-          "source": "canvas",
-          "keys": [
-            "canvas:1699880"
-          ]
-        },
-        {
-          "id": 1699882,
-          "class": "English Lang Arts 6",
-          "teacher": "Laurie Wilmoth",
-          "assignment": "Analysis: The World's Best Blind Mountain Biker",
-          "dueDate": "2026-11-09",
-          "daysUntilDue": 0,
-          "points": 8.0,
-          "url": "https://fhsd.instructure.com/courses/168676/assignments/1699882",
-          "source": "canvas",
-          "keys": [
-            "canvas:1699882"
-          ]
-        },
-        {
-          "class": "Geography 6",
           "teacher": "",
-          "assignment": "Central America/Caribbean Travel Project",
-          "dueDate": "2026-11-09",
+          "assignment": "Stations-ALWTW",
+          "dueDate": "2026-11-10",
           "daysUntilDue": 0,
-          "points": 20,
+          "points": 10,
           "source": "ic",
           "keys": [
-            "ic:3911710"
+            "ic:3912662"
           ]
         },
         {
-          "id": 1693418,
+          "id": 1693408,
           "class": "Industrial Tech 6",
           "teacher": "Dustin Nuckolls",
-          "assignment": "Chapter 4: Hand Tools (BROWN BOOK)",
+          "assignment": "6 I.T. Hand Tool Pre-Test",
           "dueDate": "2026-11-11",
-          "daysUntilDue": 2,
-          "points": 17.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693418",
+          "daysUntilDue": 1,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693408",
           "source": "canvas",
           "keys": [
-            "canvas:1693418"
+            "canvas:1693408"
+          ]
+        },
+        {
+          "id": 1701418,
+          "class": "Math 6",
+          "teacher": "Mallory Douglas",
+          "assignment": "BLOOKET--Fraction/Decimal/Percent Conversion",
+          "dueDate": "2026-11-11",
+          "daysUntilDue": 1,
+          "points": 5.0,
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1701418",
+          "source": "canvas",
+          "keys": [
+            "canvas:1701418"
           ]
         },
         {
@@ -453,7 +395,7 @@
           "teacher": "Mallory Douglas",
           "assignment": "Warm Up Quiz #10",
           "dueDate": "2026-11-13",
-          "daysUntilDue": 4,
+          "daysUntilDue": 3,
           "points": 5.0,
           "url": "https://fhsd.instructure.com/courses/168890/assignments/1701117",
           "source": "canvas",
@@ -467,16 +409,60 @@
           "teacher": "Mallory Douglas",
           "assignment": "I-Ready Week of 11/9",
           "dueDate": "2026-11-15",
-          "daysUntilDue": 6,
+          "daysUntilDue": 5,
           "points": 2.0,
           "url": "https://fhsd.instructure.com/courses/168890/assignments/1701118",
           "source": "canvas",
           "keys": [
             "canvas:1701118"
           ]
+        },
+        {
+          "id": 1689558,
+          "class": "Explo 6-Design & Modeling PLTW",
+          "teacher": "Christopher Silzle",
+          "assignment": "Multiview Drawing",
+          "dueDate": "2026-11-19",
+          "daysUntilDue": 9,
+          "points": 50.0,
+          "url": "https://fhsd.instructure.com/courses/168710/assignments/1689558",
+          "source": "canvas",
+          "keys": [
+            "canvas:1689558"
+          ]
         }
       ],
       "graded": [
+        {
+          "class": "Math 6",
+          "teacher": "",
+          "assignment": "I-Ready Week of 11/2",
+          "dateGraded": "2026-11-09",
+          "score": 2.0,
+          "possible": 2,
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1699033",
+            "ic:3911953"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1699033"
+        },
+        {
+          "class": "Math 6",
+          "teacher": "",
+          "assignment": "Warm Up Quiz #9",
+          "dateGraded": "2026-11-09",
+          "score": 5.0,
+          "possible": 5,
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1699034",
+            "ic:3910328"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1699034"
+        },
         {
           "id": 1689556,
           "class": "Explo 6-Design & Modeling PLTW",
@@ -491,6 +477,38 @@
           "source": "canvas",
           "keys": [
             "canvas:1689556"
+          ]
+        },
+        {
+          "id": 1693386,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "6 I.T. Measuring Test",
+          "dueDate": "2026-11-09",
+          "dateGraded": "2026-11-09",
+          "score": 30.0,
+          "possible": 30.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693386",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693386"
+          ]
+        },
+        {
+          "id": 1693418,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Chapter 4: Hand Tools (BROWN BOOK)",
+          "dueDate": "2026-11-11",
+          "dateGraded": "2026-11-09",
+          "score": 14.0,
+          "possible": 17.0,
+          "percent": "82%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693418",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693418"
           ]
         },
         {
@@ -673,158 +691,6 @@
           "source": "canvas",
           "keys": [
             "canvas:1697350"
-          ]
-        },
-        {
-          "class": "Geography 6",
-          "teacher": "",
-          "assignment": "The Spooky States of America",
-          "dateGraded": "2026-11-02",
-          "score": 3.0,
-          "possible": 3,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3903562"
-          ]
-        },
-        {
-          "class": "English Lang Arts 6",
-          "teacher": "",
-          "assignment": "Theme Practice ",
-          "dateGraded": "2026-11-02",
-          "score": 5.0,
-          "possible": 9,
-          "percent": "56%",
-          "source": "ic",
-          "keys": [
-            "ic:3903809"
-          ]
-        },
-        {
-          "class": "Earth Science 6",
-          "teacher": "",
-          "assignment": "Weekly Skills#1 Study Island (Thermal Energy)",
-          "dateGraded": "2026-11-02",
-          "score": 4.0,
-          "possible": 3,
-          "percent": "133%",
-          "source": "ic",
-          "keys": [
-            "ic:3903648"
-          ]
-        },
-        {
-          "class": "Earth Science 6",
-          "teacher": "",
-          "assignment": "Rock Cycle Online Lab",
-          "dateGraded": "2026-11-02",
-          "score": 3.0,
-          "possible": 3,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3903654"
-          ]
-        },
-        {
-          "class": "PE/Health 6",
-          "teacher": "",
-          "assignment": "Week 1 Q2",
-          "dateGraded": "2026-11-02",
-          "score": 15.0,
-          "possible": 15,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3903701"
-          ]
-        },
-        {
-          "class": "Geography 6",
-          "teacher": "",
-          "assignment": "Current Event ",
-          "dateGraded": "2026-11-02",
-          "score": 10.0,
-          "possible": 10,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3899850"
-          ]
-        },
-        {
-          "class": "English Lang Arts 6",
-          "teacher": "",
-          "assignment": "Seventh Grade",
-          "dateGraded": "2026-11-02",
-          "score": 5.0,
-          "possible": 5,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3903695"
-          ]
-        },
-        {
-          "class": "Math 6",
-          "teacher": "",
-          "assignment": "I-Ready Wk of 10/26",
-          "dateGraded": "2026-11-02",
-          "score": 2.0,
-          "possible": 2,
-          "percent": "100%",
-          "source": "ic",
-          "keys": [
-            "ic:3904196"
-          ]
-        },
-        {
-          "id": 1693385,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "6 I.T. Measuring Pre-Test",
-          "dueDate": "2026-11-03",
-          "dateGraded": "2026-11-02",
-          "score": 10.0,
-          "possible": 10.0,
-          "percent": "100%",
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693385",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693385"
-          ]
-        },
-        {
-          "id": 1693421,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Chapter 6: Measuring and Marking (Red book)",
-          "dueDate": "2026-11-02",
-          "dateGraded": "2026-11-02",
-          "score": 14.0,
-          "possible": 15.0,
-          "percent": "93%",
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693421",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693421"
-          ]
-        },
-        {
-          "id": 1693450,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Edpuzzle | Walnut shell and Resin project",
-          "dueDate": "2026-10-29",
-          "dateGraded": "2026-11-02",
-          "score": 10.0,
-          "possible": 10.0,
-          "percent": "100%",
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693450",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693450"
           ]
         }
       ]
