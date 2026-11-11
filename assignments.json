@@ -192,20 +192,6 @@
           ]
         },
         {
-          "id": 1611177,
-          "class": "Spanish I",
-          "teacher": "Kaitlyn Charlton",
-          "assignment": "Practice with Gustar + Infinitive (Google Forms)",
-          "dueDate": "2026-11-12",
-          "daysUntilDue": 1,
-          "points": 30.0,
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1611177",
-          "source": "canvas",
-          "keys": [
-            "canvas:1611177"
-          ]
-        },
-        {
           "id": 1698762,
           "class": "Honors English Lang Arts 8",
           "teacher": "Alan Beeson",
@@ -275,6 +261,22 @@
         }
       ],
       "graded": [
+        {
+          "id": 1611177,
+          "class": "Spanish I",
+          "teacher": "Kaitlyn Charlton",
+          "assignment": "Practice with Gustar + Infinitive (Google Forms)",
+          "dueDate": "2026-11-12",
+          "dateGraded": "2026-11-11",
+          "score": 21.0,
+          "possible": 30.0,
+          "percent": "70%",
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1611177",
+          "source": "canvas",
+          "keys": [
+            "canvas:1611177"
+          ]
+        },
         {
           "class": "Spanish I",
           "teacher": "",
