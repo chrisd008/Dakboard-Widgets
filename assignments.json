@@ -200,15 +200,27 @@
       ],
       "upcoming": [
         {
-          "class": "Spanish I",
+          "class": "PE/Health 8",
           "teacher": "",
-          "assignment": "Nombres - Speaking",
+          "assignment": "Pacer Quarter 2",
+          "dueDate": "2026-11-12",
+          "daysUntilDue": 0,
+          "points": 5,
+          "source": "ic",
+          "keys": [
+            "ic:3915338"
+          ]
+        },
+        {
+          "class": "US History 8",
+          "teacher": "",
+          "assignment": "Am Rev Dec Ind notesheets",
           "dueDate": "2026-11-12",
           "daysUntilDue": 0,
           "points": 10,
           "source": "ic",
           "keys": [
-            "ic:3915021"
+            "ic:3915423"
           ]
         },
         {
@@ -269,6 +281,30 @@
           ]
         },
         {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Week 3 Participation",
+          "dueDate": "2026-11-13",
+          "daysUntilDue": 1,
+          "points": 10,
+          "source": "ic",
+          "keys": [
+            "ic:3915310"
+          ]
+        },
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Week 3 Sportsmanship",
+          "dueDate": "2026-11-13",
+          "daysUntilDue": 1,
+          "points": 5,
+          "source": "ic",
+          "keys": [
+            "ic:3915328"
+          ]
+        },
+        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Reactants, Products, and Leftovers",
@@ -309,6 +345,18 @@
           ]
         },
         {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Health Triangle",
+          "dueDate": "2026-11-16",
+          "daysUntilDue": 4,
+          "points": 10,
+          "source": "ic",
+          "keys": [
+            "ic:3915353"
+          ]
+        },
+        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Balancing Equations CBN",
@@ -322,6 +370,19 @@
         }
       ],
       "graded": [
+        {
+          "class": "Spanish I",
+          "teacher": "",
+          "assignment": "Nombres - Speaking",
+          "dateGraded": "2026-11-12",
+          "score": 9.0,
+          "possible": 10,
+          "percent": "90%",
+          "source": "ic",
+          "keys": [
+            "ic:3915021"
+          ]
+        },
         {
           "class": "Physical Science",
           "teacher": "",
@@ -349,6 +410,19 @@
             "ic:3914561"
           ],
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1611177"
+        },
+        {
+          "class": "US History 8",
+          "teacher": "",
+          "assignment": "American Rev QUIZ",
+          "dateGraded": "2026-11-12",
+          "score": 27.0,
+          "possible": 28,
+          "percent": "96%",
+          "source": "ic",
+          "keys": [
+            "ic:3915427"
+          ]
         },
         {
           "class": "Spanish I",
@@ -685,12 +759,10 @@
           "score": 10.0,
           "possible": 10,
           "percent": "100%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1693458",
             "ic:3913269"
-          ],
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693458"
+          ]
         },
         {
           "class": "English Lang Arts 6",
@@ -883,22 +955,6 @@
           "source": "canvas",
           "keys": [
             "canvas:1693502"
-          ]
-        },
-        {
-          "id": 1693469,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Measurement Blooket (submit screenshot)",
-          "dueDate": "2026-11-05",
-          "dateGraded": "2026-11-05",
-          "score": 7.0,
-          "possible": 7.0,
-          "percent": "100%",
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693469",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693469"
           ]
         }
       ]
