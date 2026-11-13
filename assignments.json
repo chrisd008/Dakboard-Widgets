@@ -196,6 +196,18 @@
             "ic:3913555"
           ],
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1610854"
+        },
+        {
+          "class": "Physical Science",
+          "teacher": "",
+          "assignment": "Reactants, Products, and Leftovers",
+          "dueDate": "2026-11-13",
+          "daysOverdue": 0,
+          "points": 4,
+          "source": "ic",
+          "keys": [
+            "ic:3914927"
+          ]
         }
       ],
       "upcoming": [
@@ -281,18 +293,6 @@
           ]
         },
         {
-          "class": "Physical Science",
-          "teacher": "",
-          "assignment": "Reactants, Products, and Leftovers",
-          "dueDate": "2026-11-13",
-          "daysUntilDue": 0,
-          "points": 4,
-          "source": "ic",
-          "keys": [
-            "ic:3914927"
-          ]
-        },
-        {
           "id": 1610951,
           "class": "Spanish I",
           "teacher": "Kaitlyn Charlton",
@@ -335,18 +335,6 @@
           ]
         },
         {
-          "class": "PE/Health 8",
-          "teacher": "",
-          "assignment": "Health Triangle",
-          "dueDate": "2026-11-16",
-          "daysUntilDue": 3,
-          "points": 10,
-          "source": "ic",
-          "keys": [
-            "ic:3915353"
-          ]
-        },
-        {
           "class": "Physical Science",
           "teacher": "",
           "assignment": "Balancing Equations CBN",
@@ -360,6 +348,32 @@
         }
       ],
       "graded": [
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Health Triangle",
+          "dateGraded": "2026-11-13",
+          "score": 9.0,
+          "possible": 10,
+          "percent": "90%",
+          "source": "ic",
+          "keys": [
+            "ic:3915353"
+          ]
+        },
+        {
+          "class": "PE/Health 8",
+          "teacher": "",
+          "assignment": "Pacer Quarter 2",
+          "dateGraded": "2026-11-13",
+          "score": 2.0,
+          "possible": 5,
+          "percent": "40%",
+          "source": "ic",
+          "keys": [
+            "ic:3915338"
+          ]
+        },
         {
           "class": "Spanish I",
           "teacher": "",
@@ -522,6 +536,20 @@
       "missing": [],
       "upcoming": [
         {
+          "id": 1693465,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Hand Tool Test Review Blooket (SUBMIT SCREENSHOT)",
+          "dueDate": "2026-11-13",
+          "daysUntilDue": 0,
+          "points": 10.0,
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693465",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693465"
+          ]
+        },
+        {
           "id": 1701117,
           "class": "Math 6",
           "teacher": "Mallory Douglas",
@@ -556,7 +584,7 @@
           "assignment": "ALWTW Read Aloud Ch. 1-6",
           "dueDate": "2026-11-13",
           "daysUntilDue": 0,
-          "points": 0,
+          "points": 10.0,
           "url": "https://fhsd.instructure.com/courses/168676/assignments/1702332",
           "source": "canvas",
           "keys": [
@@ -629,6 +657,21 @@
           "keys": [
             "ic:3915048"
           ]
+        },
+        {
+          "class": "Math 6",
+          "teacher": "",
+          "assignment": "BLOOKET--Fraction/Decimal/Percent Conversion",
+          "dateGraded": "2026-11-13",
+          "score": 5.0,
+          "possible": 5,
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1701418",
+            "ic:3916866"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168890/assignments/1701418"
         },
         {
           "class": "Math 6",
