@@ -590,18 +590,6 @@
           ]
         },
         {
-          "class": "Geography 6",
-          "teacher": "",
-          "assignment": "Current Event ",
-          "dueDate": "2026-11-16",
-          "daysUntilDue": 0,
-          "points": 5,
-          "source": "ic",
-          "keys": [
-            "ic:3918048"
-          ]
-        },
-        {
           "id": 1693513,
           "class": "Industrial Tech 6",
           "teacher": "Dustin Nuckolls",
@@ -669,6 +657,19 @@
           "source": "ic",
           "keys": [
             "ic:3916513"
+          ]
+        },
+        {
+          "class": "Geography 6",
+          "teacher": "",
+          "assignment": "Current Event ",
+          "dateGraded": "2026-11-16",
+          "score": 5.0,
+          "possible": 5,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3918048"
           ]
         },
         {
