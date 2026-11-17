@@ -245,7 +245,7 @@
           "source": "both",
           "keys": [
             "canvas:1610848",
-            "ic:3914962"
+            "ic:3919193"
           ]
         },
         {
@@ -299,9 +299,10 @@
           "daysUntilDue": 0,
           "points": 23.0,
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1610858",
-          "source": "canvas",
+          "source": "both",
           "keys": [
-            "canvas:1610858"
+            "canvas:1610858",
+            "ic:3920101"
           ]
         },
         {
@@ -388,6 +389,21 @@
         {
           "class": "Spanish I",
           "teacher": "",
+          "assignment": "Gustar Quiz",
+          "dateGraded": "2026-11-17",
+          "score": 32.0,
+          "possible": 50,
+          "percent": "64%",
+          "source": "both",
+          "keys": [
+            "canvas:1703657",
+            "ic:3920100"
+          ],
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1703657"
+        },
+        {
+          "class": "Spanish I",
+          "teacher": "",
           "assignment": "Edpuzzle | Spanish alphabet",
           "dateGraded": "2026-11-16",
           "score": 5.0,
@@ -416,20 +432,19 @@
           "url": "https://fhsd.instructure.com/courses/169339/assignments/1610861"
         },
         {
-          "id": 1610951,
           "class": "Spanish I",
-          "teacher": "Kaitlyn Charlton",
+          "teacher": "",
           "assignment": "DuoLingo: Week of 11/9 - 11/15",
-          "dueDate": "2026-11-15",
           "dateGraded": "2026-11-16",
           "score": 4.8,
-          "possible": 10.0,
+          "possible": 10,
           "percent": "48%",
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610951",
-          "source": "canvas",
+          "source": "both",
           "keys": [
-            "canvas:1610951"
-          ]
+            "canvas:1610951",
+            "ic:3918546"
+          ],
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610951"
         },
         {
           "class": "PE/Health 8",
