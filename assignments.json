@@ -487,12 +487,10 @@
           "score": 21.0,
           "possible": 30,
           "percent": "70%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1611177",
             "ic:3914561"
-          ],
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1611177"
+          ]
         },
         {
           "class": "US History 8",
@@ -542,18 +540,6 @@
           ]
         },
         {
-          "class": "Geography 6",
-          "teacher": "",
-          "assignment": "Examining Amazon Rainforest Animals",
-          "dueDate": "2026-11-18",
-          "daysUntilDue": 0,
-          "points": 5,
-          "source": "ic",
-          "keys": [
-            "ic:3920893"
-          ]
-        },
-        {
           "id": 1703025,
           "class": "Math 6",
           "teacher": "Mallory Douglas",
@@ -583,6 +569,19 @@
             "ic:3921062"
           ],
           "url": "https://fhsd.instructure.com/courses/168710/assignments/1689558"
+        },
+        {
+          "class": "Geography 6",
+          "teacher": "",
+          "assignment": "Examining Amazon Rainforest Animals",
+          "dateGraded": "2026-11-18",
+          "score": 5.0,
+          "possible": 5,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3920893"
+          ]
         },
         {
           "class": "English Lang Arts 6",
