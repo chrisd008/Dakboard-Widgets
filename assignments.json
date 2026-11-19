@@ -355,6 +355,18 @@
           ]
         },
         {
+          "class": "US History 8",
+          "teacher": "",
+          "assignment": "QUIZ Articles of Conf",
+          "dueDate": "2026-11-20",
+          "daysUntilDue": 1,
+          "points": 18,
+          "source": "ic",
+          "keys": [
+            "ic:3922598"
+          ]
+        },
+        {
           "id": 1610956,
           "class": "Spanish I",
           "teacher": "Kaitlyn Charlton",
@@ -382,6 +394,19 @@
         }
       ],
       "graded": [
+        {
+          "class": "US History 8",
+          "teacher": "",
+          "assignment": "Am Rev Battles GO",
+          "dateGraded": "2026-11-19",
+          "score": 4.0,
+          "possible": 8,
+          "percent": "50%",
+          "source": "ic",
+          "keys": [
+            "ic:3915423"
+          ]
+        },
         {
           "class": "US History 8",
           "teacher": "",
