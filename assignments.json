@@ -629,50 +629,6 @@
       "missing": [],
       "upcoming": [
         {
-          "id": 1693387,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "6 I.T. Safety Test",
-          "dueDate": "2026-11-20",
-          "daysUntilDue": 0,
-          "points": 40.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693387",
-          "source": "both",
-          "keys": [
-            "canvas:1693387",
-            "ic:3923258"
-          ]
-        },
-        {
-          "id": 1693459,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Week 4 Grade Check",
-          "dueDate": "2026-11-20",
-          "daysUntilDue": 0,
-          "points": 10.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693459",
-          "source": "both",
-          "keys": [
-            "canvas:1693459",
-            "ic:3923259"
-          ]
-        },
-        {
-          "id": 1693501,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
-          "assignment": "Student Safety Agreement",
-          "dueDate": "2026-11-20",
-          "daysUntilDue": 0,
-          "points": 20.0,
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693501",
-          "source": "canvas",
-          "keys": [
-            "canvas:1693501"
-          ]
-        },
-        {
           "id": 1704858,
           "class": "Math 6",
           "teacher": "Mallory Douglas",
@@ -684,6 +640,30 @@
           "source": "canvas",
           "keys": [
             "canvas:1704858"
+          ]
+        },
+        {
+          "class": "EXPLO 6-Industrial Tech",
+          "teacher": "",
+          "assignment": "Week 4 Grade Check",
+          "dueDate": "2026-11-20",
+          "daysUntilDue": 0,
+          "points": 10,
+          "source": "ic",
+          "keys": [
+            "ic:3923259"
+          ]
+        },
+        {
+          "class": "EXPLO 6-Industrial Tech",
+          "teacher": "",
+          "assignment": "6 I.T. Safety Test",
+          "dueDate": "2026-11-20",
+          "daysUntilDue": 0,
+          "points": 40,
+          "source": "ic",
+          "keys": [
+            "ic:3923258"
           ]
         },
         {
@@ -800,6 +780,38 @@
             "ic:3922931"
           ],
           "url": "https://fhsd.instructure.com/courses/168655/assignments/1693457"
+        },
+        {
+          "id": 1693387,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "6 I.T. Safety Test",
+          "dueDate": "2026-11-20",
+          "dateGraded": "2026-11-20",
+          "score": 40.0,
+          "possible": 40.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693387",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693387"
+          ]
+        },
+        {
+          "id": 1693501,
+          "class": "Industrial Tech 6",
+          "teacher": "Dustin Nuckolls",
+          "assignment": "Student Safety Agreement",
+          "dueDate": "2026-11-20",
+          "dateGraded": "2026-11-20",
+          "score": 20.0,
+          "possible": 20.0,
+          "percent": "100%",
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693501",
+          "source": "canvas",
+          "keys": [
+            "canvas:1693501"
+          ]
         },
         {
           "class": "EXPLO 6-Industrial Tech",
