@@ -347,6 +347,18 @@
             "canvas:1610850",
             "ic:3920961"
           ]
+        },
+        {
+          "class": "Physical Science",
+          "teacher": "",
+          "assignment": "Conservation of Mass Color By Number",
+          "dueDate": "2026-11-23",
+          "daysOverdue": 0,
+          "points": 3,
+          "source": "ic",
+          "keys": [
+            "ic:3917796"
+          ]
         }
       ],
       "upcoming": [
@@ -362,18 +374,6 @@
           "source": "canvas",
           "keys": [
             "canvas:1704831"
-          ]
-        },
-        {
-          "class": "Physical Science",
-          "teacher": "",
-          "assignment": "Conservation of Mass Color By Number",
-          "dueDate": "2026-11-23",
-          "daysUntilDue": 0,
-          "points": 3,
-          "source": "ic",
-          "keys": [
-            "ic:3917796"
           ]
         },
         {
@@ -406,6 +406,21 @@
         }
       ],
       "graded": [
+        {
+          "class": "Spanish I",
+          "teacher": "",
+          "assignment": "DuoLingo: Week of 11/16 - 11/22",
+          "dateGraded": "2026-11-23",
+          "score": 10.0,
+          "possible": 10,
+          "percent": "100%",
+          "source": "both",
+          "keys": [
+            "canvas:1610956",
+            "ic:3925808"
+          ],
+          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610956"
+        },
         {
           "class": "Spanish I",
           "teacher": "",
@@ -445,22 +460,6 @@
           "source": "ic",
           "keys": [
             "ic:3922598"
-          ]
-        },
-        {
-          "id": 1610956,
-          "class": "Spanish I",
-          "teacher": "Kaitlyn Charlton",
-          "assignment": "DuoLingo: Week of 11/16 - 11/22",
-          "dueDate": "2026-11-22",
-          "dateGraded": "2026-11-23",
-          "score": 10.0,
-          "possible": 10.0,
-          "percent": "100%",
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1610956",
-          "source": "canvas",
-          "keys": [
-            "canvas:1610956"
           ]
         },
         {
@@ -621,18 +620,6 @@
           ]
         },
         {
-          "class": "Earth Science 6",
-          "teacher": "",
-          "assignment": "Weekly Skills #4 (Ed Puzzle Earths Spheres)",
-          "dueDate": "2026-11-23",
-          "daysUntilDue": 0,
-          "points": 3,
-          "source": "ic",
-          "keys": [
-            "ic:3922340"
-          ]
-        },
-        {
           "id": 1693426,
           "class": "Industrial Tech 6",
           "teacher": "Dustin Nuckolls",
@@ -689,6 +676,19 @@
           "source": "ic",
           "keys": [
             "ic:3925629"
+          ]
+        },
+        {
+          "class": "Earth Science 6",
+          "teacher": "",
+          "assignment": "Weekly Skills #4 (Ed Puzzle Earths Spheres)",
+          "dateGraded": "2026-11-23",
+          "score": 3.0,
+          "possible": 3,
+          "percent": "100%",
+          "source": "ic",
+          "keys": [
+            "ic:3922340"
           ]
         },
         {
