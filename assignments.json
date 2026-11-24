@@ -682,12 +682,10 @@
           "score": 32.0,
           "possible": 50,
           "percent": "64%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1703657",
             "ic:3920100"
-          ],
-          "url": "https://fhsd.instructure.com/courses/169339/assignments/1703657"
+          ]
         }
       ]
     },
@@ -755,20 +753,19 @@
           "url": "https://fhsd.instructure.com/courses/168890/assignments/1705254"
         },
         {
-          "id": 1693434,
-          "class": "Industrial Tech 6",
-          "teacher": "Dustin Nuckolls",
+          "class": "EXPLO 6-Industrial Tech",
+          "teacher": "",
           "assignment": "Drill Press Blooket (submit screenshot)",
-          "dueDate": "2026-11-30",
           "dateGraded": "2026-11-24",
           "score": 10.0,
-          "possible": 10.0,
+          "possible": 10,
           "percent": "100%",
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693434",
-          "source": "canvas",
+          "source": "both",
           "keys": [
-            "canvas:1693434"
-          ]
+            "canvas:1693434",
+            "ic:3926450"
+          ],
+          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693434"
         },
         {
           "id": 1705327,
