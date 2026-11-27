@@ -714,12 +714,10 @@
           "score": 40.0,
           "possible": 40,
           "percent": "100%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1693387",
             "ic:3923258"
-          ],
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693387"
+          ]
         },
         {
           "class": "EXPLO 6-Industrial Tech",
@@ -729,12 +727,10 @@
           "score": 20.0,
           "possible": 20,
           "percent": "100%",
-          "source": "both",
+          "source": "ic",
           "keys": [
-            "canvas:1693501",
             "ic:3924366"
-          ],
-          "url": "https://fhsd.instructure.com/courses/168655/assignments/1693501"
+          ]
         },
         {
           "class": "Earth Science 6",
